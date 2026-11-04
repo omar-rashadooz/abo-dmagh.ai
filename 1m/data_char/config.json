@@ -1,0 +1,12 @@
+{
+  "vocab_size": 92,
+  "block_size": 256,
+  "n_embd": 128,
+  "n_head": 4,
+  "n_layer": 4,
+  "ffn_size": 670,
+  "dropout": 0.1,
+  "target_parameters": 1000000,
+  "actual_parameters": 1000404,
+  "tokenizer": "character-level"
+}
