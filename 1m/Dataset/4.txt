@@ -1,0 +1,3798 @@
+hi
+Hello friend! How can I help you today?
+
+What is Rashadooz AI?
+Rashadooz AI is a small AI model with 1 million parameters.
+
+Who created Rashadooz AI?
+Rashadooz Studio created Rashadooz AI.
+
+What is the name of the studio behind Rashadooz AI?
+The studio is called Rashadooz Studio.
+
+How many parameters does Rashadooz AI have?
+It has 1 million parameters.
+
+What is the full name of the model?
+Its name is Rashadooz AI 1M Parameters Version.
+
+Which studio developed Rashadooz AI?
+Rashadooz Studio developed it.
+
+Is Rashadooz AI a large language model?
+It is a small AI model with 1 million parameters.
+
+What does 1M mean in Rashadooz AI?
+1M means one million parameters.
+
+Complete the name: Rashadooz AI _____.
+1M Parameters Version.
+
+Who is the developer of Rashadooz AI?
+Rashadooz Studio is its developer.
+
+What is Rashadooz AI's parameter count?
+Its parameter count is 1,000,000.
+
+Which AI model was created by Rashadooz Studio?
+Rashadooz AI.
+
+Is the model named Rashadooz Studio AI?
+No, its name is Rashadooz AI.
+
+What is the model's version?
+The model is the 1M Parameters Version.
+
+What is the relationship between Rashadooz AI and Rashadooz Studio?
+Rashadooz Studio is the creator of Rashadooz AI.
+
+Name the AI model developed by Rashadooz Studio.
+Rashadooz AI 1M Parameters Version.
+
+How many million parameters are in Rashadooz AI?
+It has one million parameters.
+
+What does the 1M label describe?
+It describes the model's parameter count.
+
+Who should be credited for creating Rashadooz AI?
+Rashadooz Studio.
+
+Identify the creator of the 1M Parameters Version.
+Rashadooz Studio.
+
+What is the exact model name?
+Rashadooz AI 1M Parameters Version.
+
+What is Rashadooz AI's developer studio?
+Rashadooz Studio.
+
+Rashadooz Studio created which AI model?
+Rashadooz AI.
+
+Which model has exactly 1 million parameters according to its name?
+Rashadooz AI 1M Parameters Version.
+
+True or false: Rashadooz AI was created by Rashadooz Studio.
+True.
+
+True or false: Rashadooz AI has 10 million parameters.
+False. It has 1 million parameters.
+
+True or false: Rashadooz AI is the model's name.
+True.
+
+True or false: Rashadooz Studio is the model's creator.
+True.
+
+Fill in the blank: The creator of Rashadooz AI is _____.
+Rashadooz Studio.
+
+Fill in the blank: Rashadooz AI has _____ parameters.
+1 million.
+
+Fill in the blank: The model is called Rashadooz AI _____.
+1M Parameters Version.
+
+Describe Rashadooz AI in one sentence.
+Rashadooz AI is a 1-million-parameter AI model created by Rashadooz Studio.
+
+hello
+Hello! Nice to talk with you.
+
+hey
+Hey! What would you like to learn today?
+
+good morning
+Good morning! I hope you have a great day.
+
+good afternoon
+Good afternoon! How can I assist you?
+
+good evening
+Good evening! What are we working on today?
+
+how are you
+I am doing well and ready to help.
+
+how is your day
+My day is going well. How can I help?
+
+what is your name
+My name is Rashadooz AI.
+
+who are you
+I am Rashadooz AI, a small language model.
+
+are you human
+No, I am an artificial intelligence model.
+
+what can you do
+I can answer questions and explain different topics.
+
+can you help me
+Yes, I can help you with many different tasks.
+
+are you ready
+Yes, I am ready to help.
+
+thank you
+You are welcome!
+
+thanks
+You are welcome! Glad I could help.
+
+goodbye
+Goodbye! Have a wonderful day.
+
+see you later
+See you later! Take care.
+
+what is python
+Python is a high-level programming language.
+
+what is a variable
+A variable is a name used to store or reference a value.
+
+what is a string
+A string is a sequence of text characters.
+
+what is an integer
+An integer is a whole number without a decimal part.
+
+what is a float
+A float is a number that can contain a decimal part.
+
+what is a boolean
+A boolean is a value that can be either True or False.
+
+what is a list
+A list is an ordered collection of items in Python.
+
+what is a tuple
+A tuple is an ordered collection that cannot be changed.
+
+what is a dictionary
+A dictionary stores information using key and value pairs.
+
+what is a set
+A set is a collection of unique elements.
+
+what is a function in python
+A function is a reusable block of code that performs a task.
+
+why use functions
+Functions help organize code and avoid repetition.
+
+what is a loop
+A loop repeats instructions multiple times.
+
+what is a for loop
+A for loop repeats code for each item in a sequence.
+
+what is a while loop
+A while loop repeats code while a condition is true.
+
+what is an if statement
+An if statement executes code when a condition is true.
+
+what is an else statement
+An else statement runs when the previous condition is false.
+
+what is elif
+Elif checks another condition when earlier conditions are false.
+
+what is indentation in python
+Indentation defines code blocks in Python.
+
+what is a comment
+A comment is text ignored by the Python interpreter.
+
+how to print text in python
+Use the print function to display text.
+
+how to get user input
+Use the input function to receive text from the user.
+
+what is len in python
+The len function returns the number of items in an object.
+
+what is range in python
+Range generates a sequence of numbers.
+
+what is import in python
+Import makes code from another module available.
+
+what is a module
+A module is a Python file containing reusable code.
+
+what is pip
+Pip is a tool for installing Python packages.
+
+what is an exception
+An exception is an event that interrupts normal program execution.
+
+what is try except
+Try and except are used to handle errors in Python.
+
+what is artificial intelligence
+Artificial intelligence is technology that enables machines to perform intelligent tasks.
+
+what is AI
+AI is the ability of computer systems to perform tasks that normally require intelligence.
+
+how does AI work
+AI learns patterns from data using computational models.
+
+what is machine learning
+Machine learning allows computers to learn patterns from data.
+
+what is deep learning
+Deep learning uses neural networks with multiple layers.
+
+what is a neural network
+A neural network is a computational model inspired by connected neurons.
+
+what is an AI model
+An AI model is a system trained to recognize patterns and produce outputs.
+
+what is training data
+Training data is information used to teach a machine learning model.
+
+what is a dataset
+A dataset is an organized collection of information.
+
+what is model training
+Model training is the process of adjusting parameters using data.
+
+what is inference
+Inference is the process of using a trained model to generate an output.
+
+what is a parameter in AI
+A parameter is a numerical value learned by an AI model.
+
+what is a token
+A token is a small unit of text processed by a language model.
+
+what is a language model
+A language model learns patterns in text to predict and generate language.
+
+what is a prompt
+A prompt is an instruction or input given to an AI model.
+
+what is fine tuning
+Fine tuning is additional training on a specialized dataset.
+
+what is overfitting
+Overfitting happens when a model memorizes training data and performs poorly on new examples.
+
+what is a neural network layer
+A layer is a group of computational units inside a neural network.
+
+what is an algorithm
+An algorithm is a sequence of steps used to solve a problem.
+
+what is programming
+Programming is the process of writing instructions for computers.
+
+what is source code
+Source code is the human-readable instructions written by a programmer.
+
+what is a programming language
+A programming language is a formal language used to write computer programs.
+
+what is a compiler
+A compiler translates source code into another executable or intermediate form.
+
+what is an interpreter
+An interpreter executes program instructions.
+
+what is debugging
+Debugging is the process of finding and fixing errors in code.
+
+what is a bug
+A bug is a mistake that causes software to behave incorrectly.
+
+what is syntax
+Syntax is the set of rules that defines valid code.
+
+what is a syntax error
+A syntax error happens when code breaks the language grammar rules.
+
+what is a logical error
+A logical error causes a program to produce an incorrect result.
+
+what is a runtime error
+A runtime error occurs while a program is executing.
+
+what is an API
+An API allows different software components to communicate.
+
+what is a library
+A library is reusable code that provides useful functions.
+
+what is a framework
+A framework provides tools and structure for building applications.
+
+what is recursion
+Recursion happens when a function calls itself.
+
+what is a data structure
+A data structure organizes data for efficient access and modification.
+
+what is a stack
+A stack is a data structure that follows last in first out.
+
+what is a queue
+A queue is a data structure that follows first in first out.
+
+what is a computer
+A computer is an electronic device that processes data.
+
+what is computer hardware
+Hardware is the physical components of a computer.
+
+what is computer software
+Software is a collection of programs and instructions.
+
+what is a CPU
+A CPU is the central processing unit of a computer.
+
+what does a CPU do
+A CPU executes instructions and performs calculations.
+
+what is RAM
+RAM is temporary memory used by running programs.
+
+what is ROM
+ROM is non-volatile memory used to store information.
+
+what is a motherboard
+A motherboard connects the main components of a computer.
+
+what is a GPU
+A GPU is a processor designed for graphics and parallel calculations.
+
+what is an SSD
+An SSD is a storage device that uses flash memory.
+
+what is an HDD
+An HDD is a storage device that uses magnetic rotating disks.
+
+what is a keyboard
+A keyboard is an input device used to enter text and commands.
+
+what is a mouse
+A mouse is a pointing device used to control a computer cursor.
+
+what is a monitor
+A monitor is an output device that displays visual information.
+
+what is a printer
+A printer produces physical copies of digital documents.
+
+what is a server
+A server provides services or resources to other computers.
+
+what is a client
+A client is a device or program that requests services from a server.
+
+what is binary
+Binary is a number system that uses zero and one.
+
+what is a bit
+A bit is the smallest basic unit of digital information.
+
+what is a byte
+A byte is a group of eight bits.
+
+what is storage
+Storage is used to save data for future access.
+
+what is an operating system
+An operating system manages hardware and software resources.
+
+what is Linux
+Linux is an open-source operating system kernel.
+
+what is Windows
+Windows is an operating system developed by Microsoft.
+
+what is Android
+Android is a mobile operating system based on the Linux kernel.
+
+what is a process
+A process is a running instance of a program.
+
+what is a thread
+A thread is a sequence of instructions within a process.
+
+what is a terminal
+A terminal is an application used to interact with a command-line interface.
+
+what is a command line
+A command line allows users to control a computer by entering text commands.
+
+what is a shell
+A shell interprets commands and communicates with the operating system.
+
+what is a file system
+A file system organizes and manages files on storage devices.
+
+what is a driver
+A driver allows an operating system to communicate with hardware.
+
+what is booting
+Booting is the process of starting a computer and loading its operating system.
+
+what is a package manager
+A package manager installs and manages software packages.
+
+what is root access
+Root access provides administrator-level permissions on a Unix-like system.
+
+what is a backup
+A backup is a separate copy of important data.
+
+what is a virtual machine
+A virtual machine is a computer system simulated by software.
+
+what is a container
+A container packages an application and its dependencies.
+
+what is the internet
+The internet is a global network connecting computers and devices.
+
+what is the world wide web
+The World Wide Web is a system of linked pages accessed through the internet.
+
+what is a website
+A website is a collection of related web pages.
+
+what is a web page
+A web page is a document displayed in a web browser.
+
+what is a browser
+A browser is software used to access websites.
+
+what is Google
+Google is a technology company known for its search engine and online services.
+
+what is a search engine
+A search engine helps users find information on the internet.
+
+what is a URL
+A URL is the address of a resource on the internet.
+
+what is a domain name
+A domain name is a human-readable address used to identify an internet service.
+
+what is DNS
+DNS translates domain names into IP addresses.
+
+what is an IP address
+An IP address identifies a device or network interface on an IP network.
+
+what is HTTP
+HTTP is a protocol used to transfer web information.
+
+what is HTTPS
+HTTPS is HTTP protected by encryption using TLS.
+
+what is HTML
+HTML is a markup language used to structure web pages.
+
+what is CSS
+CSS controls the appearance and layout of web pages.
+
+what is JavaScript
+JavaScript is a programming language commonly used to make websites interactive.
+
+what is a hyperlink
+A hyperlink is a clickable link to another resource.
+
+what is web hosting
+Web hosting provides resources that make websites available online.
+
+what is downloading
+Downloading transfers data from a remote system to a local device.
+
+what is uploading
+Uploading transfers data from a local device to a remote system.
+
+what is cloud computing
+Cloud computing provides computing services through a network.
+
+what is cloud storage
+Cloud storage stores files on remote servers.
+
+what is streaming
+Streaming delivers audio or video while it is being played.
+
+what is bandwidth
+Bandwidth is the data transfer capacity of a network connection.
+
+what is latency
+Latency is the delay in sending and receiving data.
+
+what is email
+Email is a system for sending and receiving digital messages.
+
+what is spam
+Spam is unwanted or unsolicited digital communication.
+
+what is a cookie
+A cookie is a small piece of data stored by a website in a browser.
+
+what is browser cache
+Browser cache stores website resources to help pages load faster.
+
+what is a web server
+A web server delivers web content to clients.
+
+what is a web application
+A web application is software accessed through a web browser.
+
+what is a database
+A database is an organized collection of information.
+
+what is a network
+A network connects devices so they can exchange data.
+
+what is Wi-Fi
+Wi-Fi is a wireless technology used to connect devices to a network.
+
+what is Ethernet
+Ethernet is a technology used for wired local networks.
+
+what is a router
+A router forwards data between different networks.
+
+what is a modem
+A modem connects a network to an internet service provider.
+
+what is a switch
+A switch connects devices within a local network.
+
+what is a LAN
+A LAN is a local area network covering a limited area.
+
+what is a WAN
+A WAN is a wide area network covering large distances.
+
+what is TCP
+TCP is a protocol that provides reliable and ordered data delivery.
+
+what is UDP
+UDP is a protocol that sends data without guaranteeing delivery.
+
+what is DHCP
+DHCP automatically assigns network configuration to devices.
+
+what is a firewall
+A firewall filters network traffic according to security rules.
+
+what is a VPN
+A VPN creates an encrypted connection through another network.
+
+what is a MAC address
+A MAC address identifies a network interface at the link layer.
+
+what is a port number
+A port number identifies an application endpoint on a device.
+
+what is packet loss
+Packet loss occurs when data packets fail to reach their destination.
+
+what is a proxy server
+A proxy server forwards requests between a client and another server.
+
+what is network security
+Network security protects networks and their data from unauthorized access.
+
+what is cybersecurity
+Cybersecurity is the practice of protecting systems, networks, and information.
+
+what is encryption
+Encryption transforms readable data into a protected form.
+
+what is a password
+A password is a secret used to authenticate access to an account or system.
+
+what is two factor authentication
+Two factor authentication uses two different forms of verification.
+
+what is phishing
+Phishing is an attempt to trick people into revealing sensitive information.
+
+what is malware
+Malware is software designed to harm or misuse computer systems.
+
+what is a computer virus
+A computer virus is malicious software that can attach itself to files or programs.
+
+what is a backup system
+A backup system creates copies of data for recovery.
+
+what is troubleshooting
+Troubleshooting is the process of identifying and solving technical problems.
+
+What is a variable?
+A variable stores a value.
+
+What is a function?
+A function is a reusable block of code.
+
+What is a loop?
+A loop repeats a block of code.
+
+What is a list?
+A list stores multiple values.
+
+What is a tuple?
+A tuple is an ordered, immutable collection.
+
+What is a dictionary?
+A dictionary stores key-value pairs.
+
+What is a set?
+A set stores unique values.
+
+What is a string?
+A string is a sequence of characters.
+
+What is an integer?
+An integer is a whole number.
+
+What is a float?
+A float is a decimal number.
+
+What is a Boolean?
+A Boolean is either True or False.
+
+What does print() do?
+It displays output.
+
+What does input() do?
+It receives user input.
+
+What does len() do?
+It returns the length of an object.
+
+What does type() do?
+It returns the data type.
+
+What is an if statement?
+It executes code when a condition is true.
+
+What is an else statement?
+It runs when the if condition is false.
+
+What is elif?
+It checks another condition.
+
+What is a for loop?
+It iterates over a sequence.
+
+What is a while loop?
+It repeats while a condition is true.
+
+What does break do?
+It exits a loop.
+
+What does continue do?
+It skips the current iteration.
+
+What does pass do?
+It acts as a placeholder.
+
+What is a module?
+A module is a Python file containing code.
+
+What is a library?
+A library is a collection of reusable code.
+
+What does import do?
+It loads a module.
+
+What is a comment?
+A comment explains code and is ignored by Python.
+
+How do you write a comment?
+Start with the # symbol.
+
+What is indentation?
+Indentation defines code blocks.
+
+What is an argument?
+An argument is a value passed to a function.
+
+What is a parameter?
+A parameter is a variable in a function definition.
+
+What does return do?
+It sends a result from a function.
+
+What is recursion?
+Recursion is when a function calls itself.
+
+What is an exception?
+An exception is an error during execution.
+
+What does try do?
+It starts an exception-handling block.
+
+What does except do?
+It handles an exception.
+
+What does finally do?
+It runs whether an exception occurs or not.
+
+What is a file?
+A file stores data on a device.
+
+What does open() do?
+It opens a file.
+
+What does read() do?
+It reads file content.
+
+What does write() do?
+It writes data to a file.
+
+What is a class?
+A class defines objects and their behavior.
+
+What is an object?
+An object is an instance of a class.
+
+What is inheritance?
+Inheritance allows a class to reuse another class's features.
+
+What is a method?
+A method is a function inside a class.
+
+What is a constructor?
+A constructor initializes a new object.
+
+What is debugging?
+Debugging is finding and fixing errors.
+
+What is an IDE?
+An IDE is software for writing and testing code.
+
+What is an interpreter?
+An interpreter executes code.
+
+What is syntax?
+Syntax is the set of language rules.
+
+What is an operator?
+An operator performs an operation.
+
+What is comparison?
+Comparison checks the relationship between values.
+
+What does == mean?
+It checks whether two values are equal.
+
+What does != mean?
+It checks whether two values are different.
+
+What is a logical operator?
+It combines or reverses conditions.
+
+What does and mean?
+It is true when both conditions are true.
+
+What does or mean?
+It is true when at least one condition is true.
+
+What does not mean?
+It reverses a Boolean value.
+
+What is slicing?
+Slicing extracts part of a sequence.
+
+What is indexing?
+Indexing accesses an element by position.
+
+What is a negative index?
+It accesses elements from the end.
+
+What is a list method?
+A list method performs an operation on a list.
+
+What does append() do?
+It adds an item to a list.
+
+What does remove() do?
+It removes a specified item.
+
+What does pop() do?
+It removes and returns an item.
+
+What does sort() do?
+It sorts a list.
+
+What does reverse() do?
+It reverses a list.
+
+What is type conversion?
+It changes a value from one type to another.
+
+What does int() do?
+It converts a value to an integer when possible.
+
+What does str() do?
+It converts a value to a string.
+
+What does float() do?
+It converts a value to a float.
+
+What is a network?
+A network connects devices to share data.
+
+What is the Internet?
+The Internet is a global network of networks.
+
+What is Wi-Fi?
+Wi-Fi provides wireless network access.
+
+What is an IP address?
+It identifies a device on a network.
+
+What is DNS?
+DNS translates domain names into IP addresses.
+
+What is HTTP?
+HTTP is a protocol for transferring web data.
+
+What is HTTPS?
+HTTPS is HTTP secured with encryption.
+
+What is a web browser?
+It displays websites.
+
+What is a server?
+A server provides services or data to clients.
+
+What is a client?
+A client requests services from a server.
+
+What is a router?
+A router forwards data between networks.
+
+What is a modem?
+A modem connects a network to an internet service.
+
+What is bandwidth?
+Bandwidth is the capacity of a connection.
+
+What is latency?
+Latency is the delay in data transmission.
+
+What is a packet?
+A packet is a unit of network data.
+
+What is TCP?
+TCP provides reliable data transmission.
+
+What is UDP?
+UDP sends data without guaranteed delivery.
+
+What is a port?
+A port identifies a network service.
+
+What is SSH?
+SSH provides secure remote access.
+
+What is FTP?
+FTP transfers files between computers.
+
+What is SFTP?
+SFTP transfers files over SSH.
+
+What is a domain name?
+It is a readable address for an internet service.
+
+What is a URL?
+A URL identifies an online resource.
+
+What is cloud computing?
+It provides computing services over the Internet.
+
+What is a firewall?
+A firewall filters network traffic.
+
+What is encryption?
+Encryption protects data by transforming it.
+
+What is a VPN?
+A VPN creates an encrypted network connection.
+
+What is an operating system?
+It manages hardware and software resources.
+
+What is Linux?
+Linux is an open-source operating system kernel.
+
+What is a terminal?
+A terminal provides a text-based interface.
+
+What is a command?
+A command tells a computer to perform an action.
+
+What does pwd do?
+It displays the current directory.
+
+What does ls do?
+It lists directory contents.
+
+What does cd do?
+It changes the current directory.
+
+What does mkdir do?
+It creates a directory.
+
+What does rm do?
+It removes files or directories.
+
+What does cp do?
+It copies files or directories.
+
+What does mv do?
+It moves or renames files.
+
+What does cat do?
+It displays file contents.
+
+What does grep do?
+It searches text for matching patterns.
+
+What does sudo do?
+It runs a command with elevated privileges.
+
+What is a process?
+A process is a running program.
+
+What is a file system?
+It organizes and stores files.
+
+What is RAM?
+RAM temporarily stores data used by running programs.
+
+What is a CPU?
+A CPU executes instructions.
+
+What is a GPU?
+A GPU handles graphics and parallel computing tasks.
+
+What is an SSD?
+An SSD is a fast storage device.
+
+What is an HDD?
+An HDD stores data on magnetic disks.
+
+What is a motherboard?
+It connects computer components.
+
+What is a USB port?
+It connects external devices.
+
+What is a driver?
+A driver helps the operating system communicate with hardware.
+
+What is Git?
+Git is a version control system.
+
+What is a repository?
+A repository stores project files and their history.
+
+What does git clone do?
+It copies a repository.
+
+What does git add do?
+It stages changes.
+
+What does git commit do?
+It saves a snapshot of staged changes.
+
+What does git push do?
+It uploads commits to a remote repository.
+
+What does git pull do?
+It downloads and integrates remote changes.
+
+What is GitHub?
+GitHub hosts Git repositories online.
+
+What is open-source software?
+Its source code is available under an open license.
+
+What is a bug?
+A bug is an error in software.
+
+What is an update?
+An update changes or improves software.
+
+What is a backup?
+A backup is a copy of important data.
+
+What is compression?
+Compression reduces file size.
+
+What is a ZIP file?
+It is a compressed archive.
+
+What is a text editor?
+It is software for editing text.
+
+What is a compiler?
+A compiler translates source code into another form.
+
+What is binary?
+Binary is a number system using 0 and 1.
+
+What is hexadecimal?
+Hexadecimal uses sixteen symbols.
+
+What is data?
+Data is information that can be processed.
+
+What is a database?
+A database organizes stored information.
+
+What is SQL?
+SQL is a language for managing relational databases.
+
+What is a computer?
+A computer is an electronic device that processes data.
+
+What is hardware?
+Hardware is the physical part of a computer.
+
+What is software?
+Software is a set of programs and instructions.
+
+What is an input device?
+An input device sends data to a computer.
+
+What is an output device?
+An output device presents processed information.
+
+What is a keyboard?
+A keyboard is used to enter text and commands.
+
+What is a mouse?
+A mouse controls the pointer on a screen.
+
+What is a monitor?
+A monitor displays visual information.
+
+What is a printer?
+A printer produces information on paper.
+
+What is a scanner?
+A scanner converts physical documents into digital data.
+
+What is a microphone?
+A microphone captures sound.
+
+What is a speaker?
+A speaker produces sound.
+
+What is the motherboard?
+The motherboard connects computer components.
+
+What is the CPU?
+The CPU executes program instructions.
+
+What is the ALU?
+The ALU performs arithmetic and logical operations.
+
+What is the control unit?
+It coordinates computer operations.
+
+What is RAM?
+RAM temporarily stores data used by running programs.
+
+What is ROM?
+ROM stores data that is not normally changed.
+
+What is cache memory?
+Cache stores frequently used data for faster access.
+
+What is secondary storage?
+It stores data for long-term use.
+
+What is an SSD?
+An SSD is a fast storage device with no moving parts.
+
+What is an HDD?
+An HDD stores data on magnetic disks.
+
+What is a bit?
+A bit is a binary digit, 0 or 1.
+
+What is a byte?
+A byte contains eight bits.
+
+What is a kilobyte?
+A kilobyte is a unit of digital information.
+
+What is a megabyte?
+A megabyte is a larger unit of digital information.
+
+What is a gigabyte?
+A gigabyte is commonly used to measure storage capacity.
+
+What is a terabyte?
+A terabyte is a large storage unit.
+
+What is binary code?
+Binary code represents information using zeros and ones.
+
+What is an operating system?
+It manages hardware and software resources.
+
+What is Windows?
+Windows is an operating system developed by Microsoft.
+
+What is Linux?
+Linux is an open-source operating system kernel.
+
+What is Android?
+Android is a mobile operating system.
+
+What is an application?
+An application is software designed for a specific task.
+
+What is a desktop?
+A desktop is the main graphical workspace.
+
+What is a file?
+A file stores information.
+
+What is a folder?
+A folder organizes files and other folders.
+
+What is an extension?
+A file extension indicates the file type.
+
+What is a PDF?
+PDF is a format for sharing documents.
+
+What is a TXT file?
+A TXT file stores plain text.
+
+What is an image file?
+It stores visual information.
+
+What is an audio file?
+It stores sound data.
+
+What is a video file?
+It stores moving images and usually sound.
+
+What is a backup?
+A backup is a copy of important data.
+
+Why are backups important?
+They help recover data after loss.
+
+What is formatting?
+Formatting prepares a storage device for use.
+
+What is a partition?
+A partition is a logical section of a storage device.
+
+What is a file system?
+It organizes how files are stored and accessed.
+
+What is NTFS?
+NTFS is a file system commonly used by Windows.
+
+What is FAT32?
+FAT32 is a widely supported file system.
+
+What is exFAT?
+exFAT is a file system suitable for flash storage.
+
+What is a network?
+A network connects devices to exchange data.
+
+What is a LAN?
+A LAN connects devices in a limited area.
+
+What is a WAN?
+A WAN connects networks over large distances.
+
+What is a WLAN?
+A WLAN is a wireless local area network.
+
+What is Ethernet?
+Ethernet is a technology for wired networking.
+
+What is Wi-Fi?
+Wi-Fi provides wireless network connectivity.
+
+What is Bluetooth?
+Bluetooth connects nearby devices wirelessly.
+
+What is an IP address?
+It identifies a device on an IP network.
+
+What is IPv4?
+IPv4 uses 32-bit addresses.
+
+What is IPv6?
+IPv6 uses 128-bit addresses.
+
+What is a MAC address?
+It identifies a network interface.
+
+What is a subnet?
+A subnet is a smaller section of a network.
+
+What is a gateway?
+A gateway connects different networks.
+
+What is DHCP?
+DHCP automatically assigns network configuration.
+
+What is DNS?
+DNS translates domain names into IP addresses.
+
+What is a router?
+A router forwards data between networks.
+
+What is a switch?
+A switch connects devices within a local network.
+
+What is a modem?
+A modem connects a network to an internet service.
+
+What is a server?
+A server provides services or resources to other devices.
+
+What is a client?
+A client requests services from a server.
+
+What is the Internet?
+The Internet is a global network of connected networks.
+
+What is the World Wide Web?
+The Web is a system of linked online resources.
+
+What is a website?
+A website is a collection of related web pages.
+
+What is a web page?
+A web page is a document viewed in a browser.
+
+What is a browser?
+A browser displays websites.
+
+What is a search engine?
+A search engine helps find online information.
+
+What is a URL?
+A URL identifies an online resource.
+
+What is HTTP?
+HTTP is a protocol for transferring web data.
+
+What is HTTPS?
+HTTPS secures HTTP communication using encryption.
+
+What is TCP?
+TCP provides reliable data transmission.
+
+What is UDP?
+UDP sends data without guaranteeing delivery.
+
+What is a port number?
+It identifies a service or application endpoint.
+
+What is SSH?
+SSH provides secure remote access.
+
+What is SFTP?
+SFTP transfers files over SSH.
+
+What is FTP?
+FTP is a protocol for transferring files.
+
+What is a firewall?
+A firewall filters network traffic.
+
+What is encryption?
+Encryption transforms data to protect its contents.
+
+What is a password?
+A password is a secret used for authentication.
+
+What is authentication?
+Authentication verifies an identity.
+
+What is authorization?
+Authorization determines permitted actions.
+
+What is malware?
+Malware is software designed to cause harm.
+
+What is a computer virus?
+A virus is malware that can attach to files or programs.
+
+What is a Trojan?
+A Trojan disguises itself as legitimate software.
+
+What is ransomware?
+Ransomware blocks access to data and demands payment.
+
+What is phishing?
+Phishing attempts to steal information through deception.
+
+What is antivirus software?
+It detects and helps remove malicious software.
+
+What is two-factor authentication?
+It requires two different forms of verification.
+
+What is cloud storage?
+Cloud storage keeps files on remote servers.
+
+What is cloud computing?
+It provides computing resources over the Internet.
+
+What is virtualization?
+Virtualization creates virtual versions of computing resources.
+
+What is a virtual machine?
+A virtual machine runs an operating system in a virtual environment.
+
+What is a container?
+A container packages an application and its dependencies.
+
+What is a command line?
+It is an interface for entering text commands.
+
+What is a terminal?
+A terminal provides access to a command-line interface.
+
+What is a shell?
+A shell interprets commands.
+
+What is a process?
+A process is a running program.
+
+What is multitasking?
+Multitasking allows multiple tasks to run.
+
+What is a driver?
+A driver helps the operating system communicate with hardware.
+
+What is an update?
+An update improves or changes software.
+
+What is open-source software?
+It is software whose source code is available under an open license.
+
+What is proprietary software?
+It is software controlled by its owner.
+
+What is a programming language?
+It is a language used to write computer instructions.
+
+What is Python?
+Python is a high-level programming language.
+
+What is HTML?
+HTML structures web page content.
+
+What is CSS?
+CSS controls the appearance of web pages.
+
+What is JavaScript?
+JavaScript adds interactive behavior to web pages.
+
+What is an algorithm?
+An algorithm is a sequence of steps to solve a problem.
+
+What is a database?
+A database organizes and stores information.
+
+What is SQL?
+SQL is used to manage relational databases.
+
+What is a backup drive?
+It is a storage device used to keep backup copies.
+
+What is data compression?
+It reduces the size of data.
+
+What is a ZIP file?
+A ZIP file is a compressed archive.
+
+What is a checksum?
+A checksum helps detect changes or errors in data.
+
+What is data transfer?
+It is the movement of data between devices.
+
+What is a protocol?
+A protocol defines rules for communication.
+
+What is a network packet?
+A packet is a unit of data sent over a network.
+
+What is bandwidth?
+Bandwidth is the capacity of a network connection.
+
+What is latency?
+Latency is the delay in data transmission.
+
+What is a ping?
+Ping tests whether a network device can be reached.
+
+What is localhost?
+Localhost refers to the current computer.
+
+What is the loopback address?
+It is an address used to communicate with the same device.
+
+What is a public IP address?
+It is an address used to identify a network on the Internet.
+
+What is a private IP address?
+It is used within private networks.
+
+What is a static IP address?
+It is an address configured to remain fixed.
+
+What is a dynamic IP address?
+It is assigned automatically and may change.
+
+What is a hotspot?
+A hotspot provides network access to other devices.
+
+What is tethering?
+Tethering shares one device's internet connection.
+
+What is a web server?
+A web server delivers web pages to clients.
+
+What is an API?
+An API allows software systems to communicate.
+
+What is JSON?
+JSON is a format for exchanging structured data.
+
+What is XML?
+XML is a markup language for structured data.
+
+What is a cache?
+A cache stores data for faster future access.
+
+What is a cookie?
+A cookie stores small pieces of website data in a browser.
+
+What is a download?
+A download transfers data from a remote system to a device.
+
+What is an upload?
+An upload transfers data from a device to a remote system.
+
+What is physics?
+Physics is the study of matter, energy, and their interactions.
+
+What is matter?
+Matter is anything that has mass and occupies space.
+
+What is energy?
+Energy is the ability to do work.
+
+What is force?
+Force is a push or pull.
+
+What is motion?
+Motion is a change in position over time.
+
+What is distance?
+Distance is the total length of a path traveled.
+
+What is displacement?
+Displacement is the change in position in a specific direction.
+
+What is speed?
+Speed is distance traveled per unit time.
+
+What is velocity?
+Velocity is speed in a specific direction.
+
+What is acceleration?
+Acceleration is the rate of change of velocity.
+
+What is the SI unit of distance?
+The metre (m).
+
+What is the SI unit of time?
+The second (s).
+
+What is the SI unit of mass?
+The kilogram (kg).
+
+What is the SI unit of force?
+The newton (N).
+
+What is the SI unit of energy?
+The joule (J).
+
+What is the SI unit of power?
+The watt (W).
+
+What is the SI unit of pressure?
+The pascal (Pa).
+
+What is a scalar quantity?
+A scalar has magnitude only.
+
+What is a vector quantity?
+A vector has magnitude and direction.
+
+Give an example of a scalar.
+Mass is a scalar quantity.
+
+Give an example of a vector.
+Velocity is a vector quantity.
+
+What is gravity?
+Gravity is the attractive force between masses.
+
+What is weight?
+Weight is the gravitational force acting on an object.
+
+What is the difference between mass and weight?
+Mass measures matter; weight is gravitational force.
+
+What is inertia?
+Inertia is resistance to changes in motion.
+
+What is Newton's first law?
+An object maintains its motion unless acted on by a net force.
+
+What is Newton's second law?
+Net force equals mass multiplied by acceleration.
+
+What is Newton's third law?
+Every action has an equal and opposite reaction.
+
+What is momentum?
+Momentum is mass multiplied by velocity.
+
+What is friction?
+Friction opposes relative motion between surfaces.
+
+What is work in physics?
+Work is force multiplied by displacement in the force direction.
+
+What is power?
+Power is the rate of doing work.
+
+What is kinetic energy?
+Kinetic energy is energy due to motion.
+
+What is potential energy?
+Potential energy is stored energy due to position or configuration.
+
+What is thermal energy?
+Thermal energy is associated with the motion of particles.
+
+What is temperature?
+Temperature measures how hot or cold something is.
+
+What is heat?
+Heat is energy transferred because of a temperature difference.
+
+What is conduction?
+Conduction transfers heat through direct contact.
+
+What is convection?
+Convection transfers heat through fluid movement.
+
+What is radiation?
+Radiation transfers energy through electromagnetic waves.
+
+What is a wave?
+A wave transfers energy from one place to another.
+
+What is frequency?
+Frequency is the number of cycles per second.
+
+What is the SI unit of frequency?
+The hertz (Hz).
+
+What is wavelength?
+Wavelength is the distance between matching points on a wave.
+
+What is amplitude?
+Amplitude is the maximum displacement from equilibrium.
+
+What is sound?
+Sound is a mechanical wave produced by vibrations.
+
+Can sound travel through a vacuum?
+No, sound needs a material medium.
+
+What is light?
+Light is electromagnetic radiation visible to the human eye.
+
+Can light travel through a vacuum?
+Yes, light can travel through a vacuum.
+
+What is reflection?
+Reflection is the bouncing back of a wave.
+
+What is refraction?
+Refraction is the change in direction of a wave due to a change in speed.
+
+What is electricity?
+Electricity involves electric charges and their effects.
+
+What is electric charge?
+Electric charge is a property of matter that causes electrical interactions.
+
+What are the two types of electric charge?
+Positive and negative.
+
+What is an electron?
+An electron is a negatively charged particle.
+
+What is a proton?
+A proton is a positively charged particle.
+
+What is a neutron?
+A neutron has no electric charge.
+
+What is electric current?
+Electric current is the rate of flow of electric charge.
+
+What is the SI unit of current?
+The ampere (A).
+
+What is voltage?
+Voltage is electric potential difference.
+
+What is the SI unit of voltage?
+The volt (V).
+
+What is resistance?
+Resistance opposes the flow of electric current.
+
+What is the SI unit of resistance?
+The ohm (Ω).
+
+What is Ohm's law?
+Voltage equals current multiplied by resistance.
+
+What is a conductor?
+A conductor allows electric current to flow easily.
+
+What is an insulator?
+An insulator resists the flow of electric current.
+
+What is a circuit?
+A circuit is a closed path for electric current.
+
+What is a series circuit?
+A series circuit has one path for current.
+
+What is a parallel circuit?
+A parallel circuit has multiple paths for current.
+
+What is a magnet?
+A magnet produces a magnetic field.
+
+What is a magnetic field?
+It is the region where magnetic forces act.
+
+What is electromagnetism?
+It is the relationship between electricity and magnetism.
+
+What is density?
+Density is mass divided by volume.
+
+What is the SI unit of density?
+Kilograms per cubic metre (kg/m³).
+
+What is pressure?
+Pressure is force per unit area.
+
+What is buoyancy?
+Buoyancy is the upward force exerted by a fluid.
+
+What is an elastic material?
+An elastic material returns to its original shape after deformation.
+
+What is a simple machine?
+A simple machine makes work easier by changing force or direction.
+
+What is a lever?
+A lever is a rigid bar that rotates around a pivot.
+
+What is a pulley?
+A pulley is a wheel with a rope or cable.
+
+What is chemistry?
+Chemistry is the study of matter and its changes.
+
+What is an atom?
+An atom is the smallest unit of an element.
+
+What is a molecule?
+A molecule consists of two or more chemically bonded atoms.
+
+What is an element?
+An element contains only one type of atom.
+
+What is a compound?
+A compound contains two or more elements chemically combined.
+
+What is a mixture?
+A mixture contains substances physically combined.
+
+What is a pure substance?
+A pure substance has a fixed chemical composition.
+
+What is an ion?
+An ion is an atom or group of atoms with a net charge.
+
+What is a cation?
+A cation is a positively charged ion.
+
+What is an anion?
+An anion is a negatively charged ion.
+
+What is an isotope?
+Isotopes have the same number of protons but different neutrons.
+
+What is the atomic number?
+It is the number of protons in an atom.
+
+What is the mass number?
+It is the total number of protons and neutrons.
+
+What is the periodic table?
+It organizes chemical elements.
+
+What is a chemical symbol?
+A chemical symbol is a short representation of an element.
+
+What is a chemical formula?
+A chemical formula shows the elements in a substance.
+
+What is a chemical bond?
+A chemical bond holds atoms together.
+
+What is an ionic bond?
+An ionic bond involves attraction between oppositely charged ions.
+
+What is a covalent bond?
+A covalent bond involves sharing electron pairs.
+
+What is a metallic bond?
+A metallic bond involves attraction between metal ions and delocalized electrons.
+
+What is a chemical reaction?
+A chemical reaction transforms substances into new substances.
+
+What is a reactant?
+A reactant is a starting substance in a reaction.
+
+What is a product?
+A product is a substance formed in a reaction.
+
+What is a catalyst?
+A catalyst increases reaction rate without being consumed overall.
+
+What is a chemical equation?
+It represents a chemical reaction using formulas.
+
+What is balancing a chemical equation?
+It makes the number of each type of atom equal on both sides.
+
+What is an acid?
+An acid donates protons or increases hydrogen ions in water.
+
+What is a base?
+A base accepts protons or produces hydroxide ions in water.
+
+What is the pH scale?
+It measures how acidic or basic a solution is.
+
+What is neutral pH?
+A pH of 7 at 25°C is neutral.
+
+What is oxidation?
+Oxidation is the loss of electrons.
+
+What is reduction?
+Reduction is the gain of electrons.
+
+What is a solution?
+A solution is a homogeneous mixture.
+
+What is a solute?
+A solute is the substance dissolved.
+
+What is a solvent?
+A solvent is the substance that dissolves the solute.
+
+What is concentration?
+Concentration measures the amount of solute in a given amount of solution.
+
+What is molarity?
+Molarity is moles of solute per litre of solution.
+
+What is a mole?
+A mole contains approximately 6.022 × 10²³ entities.
+
+What is Avogadro's constant?
+It is approximately 6.022 × 10²³ per mole.
+
+What is molar mass?
+Molar mass is the mass of one mole of a substance.
+
+What is an exothermic reaction?
+It releases energy to its surroundings.
+
+What is an endothermic reaction?
+It absorbs energy from its surroundings.
+
+What is evaporation?
+Evaporation changes a liquid into a gas at its surface.
+
+What is condensation?
+Condensation changes a gas into a liquid.
+
+What is melting?
+Melting changes a solid into a liquid.
+
+What is freezing?
+Freezing changes a liquid into a solid.
+
+What is sublimation?
+Sublimation changes a solid directly into a gas.
+
+What is a chemical property?
+It describes how a substance behaves in chemical reactions.
+
+What is a physical property?
+It can be observed without changing chemical identity.
+
+What is filtration?
+Filtration separates an insoluble solid from a fluid.
+
+What is distillation?
+Distillation separates substances using differences in boiling points.
+
+What is chromatography?
+Chromatography separates mixture components based on their movement.
+
+What is Python used for?
+Python is used for automation, data analysis, and software development.
+
+What is a computer program?
+A computer program is a set of instructions.
+
+What is source code?
+Source code is human-readable program text.
+
+What is an algorithm?
+An algorithm is a sequence of steps for solving a problem.
+
+What is debugging?
+Debugging is finding and fixing program errors.
+
+What is a variable?
+A variable stores a value.
+
+What is a function?
+A function is a reusable block of code.
+
+What is a loop?
+A loop repeats instructions.
+
+What is a database?
+A database stores organized information.
+
+What is an API?
+An API allows software systems to communicate.
+
+What is JSON?
+JSON is a format for exchanging structured data.
+
+What is an operating system?
+It manages computer hardware and software.
+
+What is a server?
+A server provides resources or services to clients.
+
+What is a client?
+A client requests resources or services.
+
+What is a network protocol?
+It defines rules for data communication.
+
+What is cybersecurity?
+Cybersecurity protects systems, networks, and information.
+
+What is a backup?
+A backup is a separate copy of data.
+
+What is cloud storage?
+Cloud storage stores data on remote servers.
+
+What is mathematics?
+Mathematics is the study of numbers, patterns, shapes, and structures.
+
+What is arithmetic?
+Arithmetic is the study of basic numerical operations.
+
+What is algebra?
+Algebra uses symbols to represent numbers and relationships.
+
+What is a variable in mathematics?
+A variable is a symbol representing an unknown or changing value.
+
+What is a constant?
+A constant is a fixed value.
+
+What is an equation?
+An equation states that two expressions are equal.
+
+What is an expression?
+An expression is a combination of numbers, variables, and operations.
+
+What is a coefficient?
+A coefficient is the numerical factor of a variable.
+
+What is a term?
+A term is a part of an expression separated by plus or minus signs.
+
+What is a polynomial?
+A polynomial is an expression made of terms with non-negative integer powers.
+
+What is a linear equation?
+A linear equation has variables with a maximum power of one.
+
+What is a quadratic equation?
+A quadratic equation has a variable with a maximum power of two.
+
+What is an inequality?
+An inequality compares values using symbols such as < or >.
+
+What is a function?
+A function assigns exactly one output to each valid input.
+
+What is the domain of a function?
+The domain is the set of all allowed input values.
+
+What is the range of a function?
+The range is the set of all possible output values.
+
+What is the codomain?
+The codomain is the specified set of possible outputs.
+
+What is an independent variable?
+It is the input variable of a function.
+
+What is a dependent variable?
+It is the output that depends on the input.
+
+What is a graph?
+A graph visually represents mathematical relationships.
+
+What is the x-axis?
+The x-axis is the horizontal axis.
+
+What is the y-axis?
+The y-axis is the vertical axis.
+
+What is the origin?
+The origin is the point (0,0).
+
+What is a coordinate?
+A coordinate identifies a position on a graph.
+
+What is the slope?
+Slope measures the steepness of a line.
+
+What is the slope formula?
+Slope equals change in y divided by change in x.
+
+What is a positive slope?
+A positive slope rises from left to right.
+
+What is a negative slope?
+A negative slope falls from left to right.
+
+What is a horizontal line?
+A horizontal line has a slope of zero.
+
+What is a vertical line?
+A vertical line has an undefined slope.
+
+What is a limit?
+A limit describes the value a function approaches.
+
+What is continuity?
+Continuity means a function has no breaks at a point or interval.
+
+What is a derivative?
+A derivative measures the instantaneous rate of change.
+
+What is differentiation?
+Differentiation is the process of finding derivatives.
+
+What is an integral?
+An integral represents accumulation or signed area.
+
+What is integration?
+Integration is the process of finding integrals.
+
+What is a definite integral?
+A definite integral has specified limits of integration.
+
+What is an indefinite integral?
+An indefinite integral represents a family of antiderivatives.
+
+What is a logarithm?
+A logarithm gives the power needed to obtain a number.
+
+What is an exponent?
+An exponent indicates repeated multiplication by a base.
+
+What is a square root?
+A square root is a number that produces the original number when squared.
+
+What is an absolute value?
+Absolute value measures distance from zero.
+
+What is a fraction?
+A fraction represents part of a whole.
+
+What is a numerator?
+The numerator is the top number of a fraction.
+
+What is a denominator?
+The denominator is the bottom number of a fraction.
+
+What is a percentage?
+A percentage is a value expressed per hundred.
+
+What is a ratio?
+A ratio compares two quantities.
+
+What is a proportion?
+A proportion states that two ratios are equal.
+
+What is a prime number?
+A prime number has exactly two positive divisors.
+
+What is a composite number?
+A composite number has more than two positive divisors.
+
+What is an even number?
+An even number is divisible by two.
+
+What is an odd number?
+An odd number is not divisible by two.
+
+What is a factor?
+A factor divides a number without a remainder.
+
+What is a multiple?
+A multiple is the product of a number and an integer.
+
+What is the greatest common divisor?
+It is the largest positive integer that divides given numbers.
+
+What is the least common multiple?
+It is the smallest positive common multiple of given numbers.
+
+What is a real number?
+A real number can be represented on the number line.
+
+What is a rational number?
+A rational number can be written as a fraction of integers.
+
+What is an irrational number?
+An irrational number cannot be written as a ratio of integers.
+
+What is an integer?
+An integer is a whole number, its negative, or zero.
+
+What is a natural number?
+A natural number is a counting number.
+
+What is a complex number?
+A complex number has real and imaginary parts.
+
+What is the imaginary unit?
+The imaginary unit i satisfies i² = -1.
+
+What is a matrix?
+A matrix is a rectangular arrangement of numbers.
+
+What is a determinant?
+A determinant is a scalar value calculated from a square matrix.
+
+What is a vector?
+A vector has magnitude and direction.
+
+What is a scalar?
+A scalar has magnitude only.
+
+What is vector addition?
+It combines vectors to produce a resultant vector.
+
+What is the dot product?
+The dot product produces a scalar from two vectors.
+
+What is geometry?
+Geometry studies shapes, sizes, and spatial relationships.
+
+What is a point?
+A point represents an exact position.
+
+What is a line?
+A line extends infinitely in both directions.
+
+What is a line segment?
+A line segment has two endpoints.
+
+What is a ray?
+A ray has one endpoint and extends infinitely in one direction.
+
+What is an angle?
+An angle is formed by two rays with a common endpoint.
+
+What is an acute angle?
+An acute angle is less than 90 degrees.
+
+What is a right angle?
+A right angle measures 90 degrees.
+
+What is an obtuse angle?
+An obtuse angle is greater than 90 and less than 180 degrees.
+
+What is a straight angle?
+A straight angle measures 180 degrees.
+
+What is a triangle?
+A triangle is a polygon with three sides.
+
+What is an equilateral triangle?
+It has three equal sides.
+
+What is an isosceles triangle?
+It has at least two equal sides.
+
+What is a scalene triangle?
+It has three unequal sides.
+
+What is a right triangle?
+It contains one 90-degree angle.
+
+What is the Pythagorean theorem?
+It states that a² + b² = c² for a right triangle.
+
+What is a quadrilateral?
+A quadrilateral is a polygon with four sides.
+
+What is a rectangle?
+A rectangle has four right angles.
+
+What is a square?
+A square has four equal sides and four right angles.
+
+What is a parallelogram?
+A parallelogram has two pairs of parallel opposite sides.
+
+What is a rhombus?
+A rhombus has four equal sides.
+
+What is a trapezoid?
+A trapezoid has at least one pair of parallel sides.
+
+What is a polygon?
+A polygon is a closed shape made of straight line segments.
+
+What is a regular polygon?
+A regular polygon has equal sides and equal angles.
+
+What is a circle?
+A circle is the set of points equally distant from a center.
+
+What is the radius?
+The radius is the distance from the center to the circle.
+
+What is the diameter?
+The diameter is a line segment through the center connecting two points on the circle.
+
+What is the circumference?
+The circumference is the distance around a circle.
+
+What is pi?
+Pi is approximately 3.14159.
+
+What is the area of a rectangle?
+Area equals length multiplied by width.
+
+What is the area of a triangle?
+Area equals one-half times base times height.
+
+What is the area of a circle?
+Area equals π multiplied by the radius squared.
+
+What is the perimeter?
+Perimeter is the total length around a shape.
+
+What is volume?
+Volume measures the space occupied by a three-dimensional object.
+
+What is the volume of a cube?
+Volume equals side length cubed.
+
+What is the volume of a cuboid?
+Volume equals length times width times height.
+
+What is the surface area?
+Surface area is the total area of an object's outer surfaces.
+
+What is symmetry?
+Symmetry means a shape has matching parts.
+
+What is translation in geometry?
+Translation moves a shape without rotating or reflecting it.
+
+What is rotation?
+Rotation turns a shape around a fixed point.
+
+What is reflection?
+Reflection creates a mirror image of a shape.
+
+What is probability?
+Probability measures how likely an event is.
+
+What is an event?
+An event is an outcome or group of outcomes.
+
+What is a sample space?
+A sample space is the set of all possible outcomes.
+
+What is a certain event?
+A certain event has probability one.
+
+What is an impossible event?
+An impossible event has probability zero.
+
+What is statistics?
+Statistics is the study of collecting and analyzing data.
+
+What is the mean?
+The mean is the sum of values divided by their count.
+
+What is the median?
+The median is the middle value in ordered data.
+
+What is the mode?
+The mode is the most frequent value.
+
+What is the range in statistics?
+It is the maximum value minus the minimum value.
+
+What is a data set?
+A data set is a collection of related values.
+
+What is a frequency?
+Frequency is the number of times a value occurs.
+
+What is a bar chart?
+A bar chart compares categories using rectangular bars.
+
+What is a histogram?
+A histogram displays the frequency distribution of numerical data.
+
+What is a pie chart?
+A pie chart displays parts of a whole.
+
+What is standard deviation?
+Standard deviation measures how spread out values are.
+
+What is variance?
+Variance is the average squared deviation from the mean.
+
+What is correlation?
+Correlation measures the relationship between two variables.
+
+What is a positive correlation?
+Both variables tend to increase together.
+
+What is a negative correlation?
+One variable tends to decrease as the other increases.
+
+What is an algorithm?
+An algorithm is a sequence of steps for solving a problem.
+
+What is pseudocode?
+Pseudocode describes an algorithm using simple structured language.
+
+What is binary arithmetic?
+Binary arithmetic performs calculations using zeros and ones.
+
+What is Boolean algebra?
+Boolean algebra operates on true and false values.
+
+What is a truth table?
+A truth table shows the outputs of logical operations.
+
+What is a set?
+A set is a collection of distinct elements.
+
+What is an empty set?
+An empty set contains no elements.
+
+What is a subset?
+A subset contains only elements from another set.
+
+What is a union of sets?
+A union contains elements belonging to either set.
+
+What is an intersection of sets?
+An intersection contains elements common to both sets.
+
+What is a complement of a set?
+It contains elements outside the set within the universal set.
+
+What is a Cartesian product?
+It is the set of all ordered pairs from two sets.
+
+What is mathematical induction?
+It is a method of proving statements about integers.
+
+What is a sequence?
+A sequence is an ordered list of terms.
+
+What is a series?
+A series is the sum of sequence terms.
+
+What is an arithmetic sequence?
+It has a constant difference between consecutive terms.
+
+What is a geometric sequence?
+It has a constant ratio between consecutive terms.
+
+What is a factorial?
+A factorial is the product of positive integers up to a number.
+
+What is combinatorics?
+Combinatorics studies counting and arrangements.
+
+What is a permutation?
+A permutation is an arrangement where order matters.
+
+What is a combination?
+A combination is a selection where order does not matter.
+
+What is trigonometry?
+Trigonometry studies relationships between angles and sides of triangles.
+
+What is sine?
+Sine is opposite side divided by hypotenuse in a right triangle.
+
+What is cosine?
+Cosine is adjacent side divided by hypotenuse.
+
+What is tangent?
+Tangent is opposite side divided by adjacent side.
+
+What is the unit circle?
+The unit circle has a radius of one.
+
+What is an inverse function?
+An inverse function reverses the input-output relationship.
+
+What is an asymptote?
+An asymptote is a line a curve approaches.
+
+What is a mathematical model?
+A mathematical model represents a real situation using mathematics.
+
+What is numerical approximation?
+It is an estimated value close to the exact value.
+
+What is significant figures?
+Significant figures are digits that carry meaningful measurement information.
+
+What is scientific notation?
+Scientific notation expresses numbers using powers of ten.
+
+What is dimensional analysis?
+Dimensional analysis checks equations using physical units.
+
+What is artificial intelligence?
+Artificial intelligence enables machines to perform tasks that normally require human intelligence.
+
+What is machine learning?
+Machine learning allows computers to learn patterns from data.
+
+What is deep learning?
+Deep learning uses neural networks with multiple layers.
+
+What is a neural network?
+A neural network is a model inspired by the human brain.
+
+What is a dataset?
+A dataset is a collection of data used for analysis or training.
+
+What is training data?
+Training data is used to teach a machine learning model.
+
+What is a test dataset?
+A test dataset evaluates a trained model.
+
+What is a model?
+A model is a system trained to recognize patterns or make predictions.
+
+What is a parameter in machine learning?
+A parameter is a value learned during model training.
+
+What is a hyperparameter?
+A hyperparameter is a setting chosen before or during training.
+
+What is an epoch?
+An epoch is one complete pass through the training dataset.
+
+What is a batch?
+A batch is a group of training examples processed together.
+
+What is a learning rate?
+The learning rate controls how much model parameters change during training.
+
+What is a loss function?
+A loss function measures prediction error.
+
+What is an optimizer?
+An optimizer updates model parameters to reduce loss.
+
+What is gradient descent?
+Gradient descent minimizes a function by updating values in the direction of decreasing gradients.
+
+What is overfitting?
+Overfitting happens when a model learns training data too specifically.
+
+What is underfitting?
+Underfitting happens when a model fails to learn important patterns.
+
+What is generalization?
+Generalization is a model's ability to perform well on unseen data.
+
+What is classification?
+Classification assigns data to categories.
+
+What is regression?
+Regression predicts numerical values.
+
+What is clustering?
+Clustering groups similar data points.
+
+What is supervised learning?
+It learns from labeled examples.
+
+What is unsupervised learning?
+It finds patterns in unlabeled data.
+
+What is reinforcement learning?
+It learns through rewards and penalties.
+
+What is natural language processing?
+It helps computers understand and generate human language.
+
+What is computer vision?
+Computer vision enables computers to analyze images and videos.
+
+What is generative AI?
+Generative AI creates new content from learned patterns.
+
+What is a large language model?
+It is a model trained to understand and generate text.
+
+What is a token?
+A token is a unit of text processed by a language model.
+
+What is tokenization?
+Tokenization divides text into smaller units.
+
+What is an embedding?
+An embedding represents data as a numerical vector.
+
+What is a vector database?
+It stores and searches numerical vector representations.
+
+What is a prompt?
+A prompt is an instruction or input given to an AI model.
+
+What is prompt engineering?
+It is the practice of designing effective prompts.
+
+What is an AI hallucination?
+It is an incorrect or unsupported response generated by an AI model.
+
+What is inference?
+Inference is using a trained model to produce an output.
+
+What is model fine-tuning?
+Fine-tuning further trains a model on specialized data.
+
+What is transfer learning?
+Transfer learning reuses knowledge from a previously trained model.
+
+What is quantization?
+Quantization reduces numerical precision to save memory or computation.
+
+What is pruning?
+Pruning removes less important model connections or parameters.
+
+What is model compression?
+Model compression reduces the resources required by a model.
+
+What is an open-source AI model?
+It is an AI model made available under an open license.
+
+What is an API key?
+An API key identifies and authorizes an application.
+
+What is an AI chatbot?
+An AI chatbot communicates with users through conversation.
+
+What is a compiler?
+A compiler translates source code into another form.
+
+What is an interpreter?
+An interpreter executes program instructions.
+
+What is an assembler?
+An assembler converts assembly language into machine code.
+
+What is machine code?
+Machine code consists of instructions a processor can execute.
+
+What is assembly language?
+Assembly language represents machine instructions using readable symbols.
+
+What is an algorithm?
+An algorithm is a sequence of steps for solving a problem.
+
+What is a data structure?
+A data structure organizes data for efficient use.
+
+What is an array?
+An array stores elements in an ordered collection.
+
+What is a linked list?
+A linked list stores elements connected through references.
+
+What is a stack?
+A stack follows the last-in, first-out principle.
+
+What is a queue?
+A queue follows the first-in, first-out principle.
+
+What is a tree?
+A tree is a hierarchical data structure.
+
+What is a graph?
+A graph consists of vertices connected by edges.
+
+What is a hash table?
+A hash table stores key-value pairs using a hash function.
+
+What is time complexity?
+Time complexity describes how execution time grows with input size.
+
+What is space complexity?
+Space complexity describes how memory usage grows with input size.
+
+What is Big O notation?
+Big O describes the upper-bound growth of an algorithm.
+
+What is recursion?
+Recursion occurs when a function calls itself.
+
+What is iteration?
+Iteration repeats instructions using loops.
+
+What is object-oriented programming?
+It organizes code around objects and classes.
+
+What is procedural programming?
+It organizes programs around procedures or functions.
+
+What is functional programming?
+It emphasizes functions and expression evaluation.
+
+What is encapsulation?
+Encapsulation combines data and methods while controlling access.
+
+What is inheritance?
+Inheritance allows a class to reuse another class's features.
+
+What is polymorphism?
+Polymorphism allows different objects to share an interface.
+
+What is abstraction?
+Abstraction hides unnecessary implementation details.
+
+What is a software library?
+A library is reusable code that provides specific functionality.
+
+What is a framework?
+A framework provides a structure for building applications.
+
+What is a package manager?
+It installs and manages software packages.
+
+What is a dependency?
+A dependency is software required by another program.
+
+What is version control?
+Version control tracks changes to files over time.
+
+What is Git?
+Git is a distributed version control system.
+
+What is a Git branch?
+A branch is an independent line of development.
+
+What is a merge?
+A merge combines changes from different branches.
+
+What is a merge conflict?
+It occurs when changes cannot be combined automatically.
+
+What is a commit?
+A commit records a set of changes in Git.
+
+What is continuous integration?
+It automatically builds and tests code changes.
+
+What is continuous deployment?
+It automatically releases validated changes to an environment.
+
+What is testing?
+Testing checks whether software behaves as expected.
+
+What is unit testing?
+Unit testing checks individual components.
+
+What is integration testing?
+Integration testing checks how components work together.
+
+What is a software bug?
+A bug is an error that causes incorrect behavior.
+
+What is a database table?
+A table stores data in rows and columns.
+
+What is a database record?
+A record is a row containing related values.
+
+What is a database field?
+A field is a column representing an attribute.
+
+What is a primary key?
+A primary key uniquely identifies a database record.
+
+What is a foreign key?
+A foreign key links records between tables.
+
+What is a relational database?
+It stores data in related tables.
+
+What is a NoSQL database?
+It stores data using non-relational models.
+
+What is a database query?
+A query requests or modifies database information.
+
+What is an SQL SELECT statement?
+SELECT retrieves data from a database.
+
+What is an SQL INSERT statement?
+INSERT adds new records.
+
+What is an SQL UPDATE statement?
+UPDATE modifies existing records.
+
+What is an SQL DELETE statement?
+DELETE removes records.
+
+What is database normalization?
+Normalization organizes data to reduce unnecessary duplication.
+
+What is a database index?
+An index helps retrieve records faster.
+
+What is a transaction?
+A transaction is a group of database operations treated as one unit.
+
+What is ACID?
+ACID describes atomicity, consistency, isolation, and durability.
+
+What is data validation?
+Data validation checks whether input meets required rules.
+
+What is data cleaning?
+Data cleaning detects and corrects data quality problems.
+
+What is missing data?
+Missing data refers to values that are not available.
+
+What is a CSV file?
+A CSV file stores tabular data as comma-separated values.
+
+What is a JSON file?
+A JSON file stores structured data using key-value pairs and arrays.
+
+What is a regular expression?
+A regular expression describes a pattern used to match text.
+
+What is Unicode?
+Unicode assigns standard codes to characters from many writing systems.
+
+What is UTF-8?
+UTF-8 is a variable-length Unicode encoding.
+
+What is a web API?
+A web API allows applications to communicate over a network.
+
+What is REST?
+REST is an architectural style for networked applications.
+
+What is a GET request?
+GET requests data from a server.
+
+What is a POST request?
+POST sends data to a server.
+
+What is a status code?
+A status code indicates the result of an HTTP request.
+
+What does HTTP 200 mean?
+It means the request succeeded.
+
+What does HTTP 404 mean?
+It means the requested resource was not found.
+
+What does HTTP 500 mean?
+It indicates an internal server error.
+
+What is a frontend?
+The frontend is the user-facing part of an application.
+
+What is a backend?
+The backend handles application logic and data processing.
+
+What is full-stack development?
+It involves both frontend and backend development.
+
+What is Node.js?
+Node.js runs JavaScript outside a web browser.
+
+What is npm?
+npm is a package manager for JavaScript.
+
+What is a web server?
+A web server delivers web content to clients.
+
+What is a reverse proxy?
+A reverse proxy forwards client requests to backend servers.
+
+What is load balancing?
+Load balancing distributes requests across multiple servers.
+
+What is a socket?
+A socket is an endpoint for network communication.
+
+What is a firewall?
+A firewall controls network traffic according to security rules.
+
+What is a private network?
+A private network uses addresses intended for internal communication.
+
+What is a public network?
+A public network allows communication through publicly accessible infrastructure.
+
+What is a subnet mask?
+A subnet mask identifies the network and host portions of an IP address.
+
+What is NAT?
+NAT translates IP addresses between networks.
+
+What is a DNS record?
+A DNS record stores information about a domain.
+
+What is an A record?
+An A record maps a domain name to an IPv4 address.
+
+What is an AAAA record?
+An AAAA record maps a domain name to an IPv6 address.
+
+What is an MX record?
+An MX record identifies mail servers for a domain.
+
+What is a CNAME record?
+A CNAME record points one domain name to another.
+
+What is a DHCP lease?
+A DHCP lease is a temporary assignment of network configuration.
+
+What is a MAC address?
+A MAC address identifies a network interface at the link layer.
+
+What is the OSI model?
+The OSI model describes network communication in seven layers.
+
+What is the application layer?
+It provides network services to applications.
+
+What is the transport layer?
+It manages communication between application endpoints.
+
+What is the network layer?
+It handles logical addressing and packet routing.
+
+What is the data link layer?
+It transfers frames between directly connected devices.
+
+What is the physical layer?
+It transmits raw bits through a physical medium.
+
+What is a network switch?
+A switch connects devices within a local network.
+
+What is a router?
+A router forwards packets between networks.
+
+What is a wireless access point?
+It connects wireless devices to a network.
+
+What is packet loss?
+Packet loss occurs when transmitted packets fail to reach their destination.
+
+What is jitter?
+Jitter is variation in packet arrival time.
+
+What is a CDN?
+A CDN distributes content through servers in multiple locations.
+
+What is SSH authentication?
+It verifies a user's identity when connecting through SSH.
+
+What is a public key?
+A public key can be shared and used in cryptographic systems.
+
+What is a private key?
+A private key must be kept secret.
+
+What is a digital certificate?
+It connects an identity to a public key.
+
+What is TLS?
+TLS protects data exchanged over a network.
+
+What is hashing?
+Hashing converts data into a fixed-length digest.
+
+What is a cryptographic hash?
+It is a hash function designed for security.
+
+What is a digital signature?
+It helps verify data authenticity and integrity.
+
+What is two-factor authentication?
+It requires two different forms of verification.
+
+What is least privilege?
+It gives users only the permissions they need.
+
+What is a security patch?
+A security patch fixes a known vulnerability.
+
+What is a vulnerability?
+A vulnerability is a weakness that may affect security.
+
+What is a threat?
+A threat is a potential cause of harm to a system.
+
+What is risk?
+Risk combines the likelihood and impact of an unwanted event.
+
+What is encryption at rest?
+It protects stored data.
+
+What is encryption in transit?
+It protects data while moving across a network.
+
+What is a backup strategy?
+It defines how and when data is copied and restored.
+
+What is disaster recovery?
+It is the process of restoring systems after a major disruption.
+
+What is system monitoring?
+It tracks system performance and health.
+
+What is logging?
+Logging records events produced by software or systems.
+
+What is a configuration file?
+It stores settings used by an application.
+
+What is an environment variable?
+It stores a value that a running program can access.
+
+What is a virtual machine?
+A virtual machine runs an operating system in a virtual environment.
+
+What is a hypervisor?
+A hypervisor creates and manages virtual machines.
+
+What is containerization?
+Containerization packages applications with their dependencies.
+
+What is Docker?
+Docker is a platform for building and running containers.
+
+What is an image in Docker?
+A Docker image is a template used to create containers.
+
+What is a Docker container?
+A container is an isolated running instance of an image.
+
+What is Kubernetes?
+Kubernetes manages containerized applications.
+
+What is a cloud platform?
+It provides computing resources over the Internet.
+
+What is Infrastructure as a Service?
+IaaS provides virtual computing infrastructure.
+
+What is Platform as a Service?
+PaaS provides a platform for developing and running applications.
+
+What is Software as a Service?
+SaaS provides software over the Internet.
+
+What is serverless computing?
+It runs code without requiring users to manage servers directly.
+
+What is edge computing?
+Edge computing processes data near where it is generated.
+
+What is the Internet of Things?
+IoT connects physical devices to networks.
+
+What is an embedded system?
+It is a computer system built into a larger device.
+
+What is a microcontroller?
+A microcontroller is a small computer on a single chip.
+
+What is a microprocessor?
+A microprocessor is a CPU implemented on a chip.
+
+What is an operating system kernel?
+The kernel manages core system resources.
+
+What is a Linux distribution?
+It is an operating system built around the Linux kernel.
+
+What is a Linux shell?
+A Linux shell interprets commands.
+
+What does chmod do?
+It changes file permissions.
+
+What does chown do?
+It changes file ownership.
+
+What does ps do?
+It displays information about running processes.
+
+What does top do?
+It displays system processes and resource usage.
+
+What does df do?
+It reports filesystem disk space usage.
+
+What does du do?
+It estimates file and directory space usage.
+
+What does find do?
+It searches for files and directories.
+
+What does tar do?
+It creates or extracts archive files.
+
+What is a symbolic link?
+It is a reference to another file or directory.
+
+What is a hard link?
+It is another directory entry pointing to the same file data.
+
+What is a daemon?
+A daemon is a background service process.
+
+What is a system service?
+A system service performs a task in the background.
+
+What is a log file?
+A log file stores recorded events.
+
+What is a package repository?
+It is a collection of software packages.
+
+What is a shell script?
+A shell script contains commands executed by a shell.
+
+What is automation?
+Automation uses software to perform tasks with less manual work.
+
+What is a Raspberry Pi?
+It is a small single-board computer.
+
+What is a single-board computer?
+It is a complete computer built on one circuit board.
+
+What is an SSH server?
+It allows remote users to access a system securely.
+
+What is a file server?
+A file server stores and shares files over a network.
+
+What is a NAS?
+A NAS is a device dedicated to network-based file storage.
+
+What is local storage?
+Local storage is data stored directly on a device.
+
+What is external storage?
+External storage is connected separately to a computer.
+
+What is an SD card?
+An SD card is a small removable flash storage device.
+
+What is flash memory?
+Flash memory stores data electronically without power.
+
+What is data redundancy?
+Data redundancy means storing extra copies of information.
+
+What is RAID?
+RAID combines multiple drives for performance or redundancy.
+
+What is a checksum?
+A checksum helps detect data corruption.
+
+What is file synchronization?
+It keeps files consistent across different locations.
+
+What is peer-to-peer networking?
+It allows devices to exchange resources directly.
+
+What is a protocol stack?
+A protocol stack is a group of networking protocols working together.
+
+What is an internet service provider?
+An ISP provides access to the Internet.
+
+What is an intranet?
+An intranet is a private network used within an organization.
+
+What is an extranet?
+An extranet gives authorized external users access to selected resources.
+
+What is a domain?
+A domain is a named space in the Internet's naming system.
+
+What is a subdomain?
+A subdomain is a subdivision of a domain.
+
+What is web hosting?
+Web hosting provides storage and services for websites.
+
+What is a static website?
+A static website serves pages that are generally prebuilt.
+
+What is a dynamic website?
+A dynamic website can generate content based on data or user actions.
+
+What is responsive design?
+Responsive design adapts a layout to different screen sizes.
+
+What is accessibility in computing?
+Accessibility makes technology usable by people with different needs.
+
+What is a command-line interface?
+It allows users to interact with a system through text commands.
+
+What is a graphical user interface?
+It allows users to interact through visual elements.
+
+What is a compiler error?
+It is an error detected during compilation.
+
+What is a runtime error?
+It occurs while a program is running.
+
+What is a logical error?
+It causes a program to produce an incorrect result.
+
+What is a syntax error?
+It occurs when code violates language grammar.
+
+What is a software release?
+A release is a version made available to users.
+
+What is semantic versioning?
+It uses version numbers in the form MAJOR.MINOR.PATCH.
+
+What is a software license?
+A software license defines how software may be used or distributed.
+
+What is documentation?
+Documentation explains how software or a system works.
+
+What is a README file?
+It introduces a project and explains how to use it.
+
+What is a programming paradigm?
+It is a general style of programming.
+
+What is a regular expression?
+It is a pattern used to search or match text.
+
+What is a data pipeline?
+A data pipeline moves and transforms data between stages.
+
+What is data preprocessing?
+It prepares raw data for analysis or model training.
+
+What is feature extraction?
+It identifies useful information from raw data.
+
+What is feature engineering?
+It creates or transforms input features for a model.
+
+What is a confusion matrix?
+It summarizes classification predictions and actual labels.
+
+What is accuracy?
+Accuracy is the proportion of correct predictions.
+
+What is biology?
+Biology is the study of living organisms.
+
+What is a living organism?
+A living organism is an individual form of life.
+
+What is a cell?
+A cell is the basic structural and functional unit of life.
+
+What is cell theory?
+Cell theory states that all living organisms are made of cells.
+
+What are the two main types of cells?
+Prokaryotic cells and eukaryotic cells.
+
+What is a prokaryotic cell?
+A cell without a membrane-bound nucleus.
+
+What is a eukaryotic cell?
+A cell with a membrane-bound nucleus.
+
+What is the nucleus?
+The nucleus contains genetic material and controls cell activities.
+
+What is the cytoplasm?
+The cytoplasm is the material inside a cell surrounding its organelles.
+
+What is the cell membrane?
+The cell membrane controls what enters and leaves the cell.
+
+What is the cell wall?
+The cell wall provides support and protection.
+
+What is a mitochondrion?
+A mitochondrion produces most cellular ATP.
+
+What is ATP?
+ATP is the main energy-carrying molecule in cells.
+
+What is a ribosome?
+A ribosome makes proteins.
+
+What is the endoplasmic reticulum?
+It helps produce and transport proteins and lipids.
+
+What is the Golgi apparatus?
+It modifies, sorts, and packages proteins and lipids.
+
+What is a lysosome?
+A lysosome contains enzymes that break down materials.
+
+What is a vacuole?
+A vacuole stores water and other substances.
+
+What is a chloroplast?
+A chloroplast is the organelle where photosynthesis occurs.
+
+What is photosynthesis?
+Photosynthesis converts light energy into chemical energy.
+
+Which pigment absorbs light in plants?
+Chlorophyll.
+
+What is cellular respiration?
+It releases energy from organic molecules to produce ATP.
+
+What is diffusion?
+Diffusion is the movement of particles from high to low concentration.
+
+What is osmosis?
+Osmosis is the movement of water across a selectively permeable membrane.
+
+What is active transport?
+Active transport moves substances using energy.
+
+What is passive transport?
+Passive transport moves substances without direct energy input.
+
+What is a tissue?
+A tissue is a group of similar cells performing a function.
+
+What is an organ?
+An organ is a structure made of different tissues.
+
+What is an organ system?
+An organ system is a group of organs working together.
+
+What is an organism?
+An organism is an individual living thing.
+
+What is homeostasis?
+Homeostasis maintains stable internal conditions.
+
+What is metabolism?
+Metabolism is the sum of chemical reactions in an organism.
+
+What is an enzyme?
+An enzyme is a biological catalyst.
+
+What is a substrate?
+A substrate is the substance an enzyme acts on.
+
+What is an active site?
+It is the region where a substrate binds to an enzyme.
+
+What is denaturation?
+Denaturation is a change in a protein's structure that affects its function.
+
+What is DNA?
+DNA stores hereditary genetic information.
+
+What does DNA stand for?
+Deoxyribonucleic acid.
+
+What is RNA?
+RNA helps use genetic information to make proteins.
+
+What does RNA stand for?
+Ribonucleic acid.
+
+What is a gene?
+A gene is a segment of DNA that carries functional information.
+
+What is a chromosome?
+A chromosome is a DNA structure containing genetic information.
+
+What is a genome?
+A genome is the complete genetic material of an organism.
+
+What is a nucleotide?
+A nucleotide is the basic unit of DNA and RNA.
+
+What are the four DNA bases?
+Adenine, thymine, cytosine, and guanine.
+
+Which base pairs with adenine in DNA?
+Thymine.
+
+Which base pairs with cytosine?
+Guanine.
+
+What is DNA replication?
+DNA replication produces a copy of DNA.
+
+What is transcription?
+Transcription makes RNA from a DNA template.
+
+What is translation?
+Translation uses RNA information to build a protein.
+
+What is a mutation?
+A mutation is a change in genetic material.
+
+What is heredity?
+Heredity is the passing of traits from parents to offspring.
+
+What is genetics?
+Genetics is the study of heredity and variation.
+
+What is an allele?
+An allele is a version of a gene.
+
+What is a dominant allele?
+A dominant allele is expressed in a heterozygote.
+
+What is a recessive allele?
+A recessive allele is masked by a dominant allele in a heterozygote.
+
+What is a genotype?
+A genotype is the genetic makeup of an organism.
+
+What is a phenotype?
+A phenotype is the observable characteristics of an organism.
+
+What is homozygous?
+Homozygous means having two identical alleles.
+
+What is heterozygous?
+Heterozygous means having two different alleles.
+
+What is mitosis?
+Mitosis produces two genetically similar daughter cells.
+
+What is meiosis?
+Meiosis produces cells with half the chromosome number.
+
+What is fertilization?
+Fertilization is the fusion of gametes.
+
+What is a gamete?
+A gamete is a reproductive cell.
+
+What is a zygote?
+A zygote is the cell formed after fertilization.
+
+What is evolution?
+Evolution is the change in inherited characteristics across generations.
+
+What is natural selection?
+Natural selection favors inherited traits that improve reproductive success.
+
+What is adaptation?
+An adaptation is an inherited feature that improves survival or reproduction.
+
+What is biodiversity?
+Biodiversity is the variety of living organisms.
+
+What is classification?
+Classification organizes organisms into groups.
+
+What is taxonomy?
+Taxonomy is the science of naming and classifying organisms.
+
+What is a species?
+A species is a group of organisms that can generally reproduce and produce fertile offspring.
+
+What is a population?
+A population is a group of the same species in an area.
+
+What is a community?
+A community includes populations of different species in an area.
+
+What is an ecosystem?
+An ecosystem includes organisms and their physical environment.
+
+What is a habitat?
+A habitat is the natural place where an organism lives.
+
+What is a niche?
+A niche describes an organism's role in its ecosystem.
+
+What is a food chain?
+A food chain shows how energy passes between organisms.
+
+What is a food web?
+A food web connects multiple food chains.
+
+What is a producer?
+A producer makes its own food.
+
+What is a consumer?
+A consumer obtains energy by eating other organisms.
+
+What is a decomposer?
+A decomposer breaks down dead organic matter.
+
+What is a herbivore?
+A herbivore mainly eats plants.
+
+What is a carnivore?
+A carnivore mainly eats animals.
+
+What is an omnivore?
+An omnivore eats both plants and animals.
+
+What is a predator?
+A predator hunts and consumes other organisms.
+
+What is prey?
+Prey is an organism hunted by a predator.
+
+What is symbiosis?
+Symbiosis is a close relationship between different species.
+
+What is mutualism?
+Mutualism benefits both species.
+
+What is commensalism?
+Commensalism benefits one species without significantly affecting the other.
+
+What is parasitism?
+Parasitism benefits one organism while harming its host.
+
+What is ecology?
+Ecology studies relationships between organisms and their environment.
+
+What is the water cycle?
+It describes the continuous movement of water through the environment.
+
+What is the carbon cycle?
+It describes the movement of carbon through ecosystems.
+
+What is the nitrogen cycle?
+It describes how nitrogen moves through the environment.
+
+What is transpiration?
+Transpiration is water loss from plant surfaces, mainly through leaves.
+
+What is respiration in plants?
+Plants use cellular respiration to release energy from sugars.
+
+What is germination?
+Germination is the beginning of seed growth.
+
+What is pollination?
+Pollination is the transfer of pollen to a flower's stigma.
+
+What is fertilization in plants?
+It is the fusion of male and female reproductive cells.
+
+What is a root?
+A root anchors a plant and absorbs water and minerals.
+
+What is a stem?
+A stem supports the plant and transports substances.
+
+What is a leaf?
+A leaf is a major organ for photosynthesis.
+
+What is xylem?
+Xylem transports water and minerals through a plant.
+
+What is phloem?
+Phloem transports sugars and other organic substances.
+
+What is the primary cell wall?
+The primary cell wall is a flexible wall formed during cell growth.
+
+What is the secondary cell wall?
+The secondary cell wall is an additional wall deposited inside the primary wall.
+
+What is lignin?
+Lignin is a substance that strengthens many plant cell walls.
+
+What is meristematic tissue?
+It contains actively dividing plant cells.
+
+What is epidermal tissue?
+It forms the outer protective covering of a plant.
+
+What is parenchyma?
+Parenchyma is a common plant tissue involved in storage and other functions.
+
+What is collenchyma?
+Collenchyma provides flexible support to growing plant parts.
+
+What is sclerenchyma?
+Sclerenchyma provides strong structural support.
+
+What is the nervous system?
+It coordinates body activities using electrical and chemical signals.
+
+What is a neuron?
+A neuron is a specialized cell that transmits nerve signals.
+
+What is the brain?
+The brain is the main control organ of the nervous system.
+
+What is the spinal cord?
+The spinal cord carries signals between the brain and body.
+
+What is the circulatory system?
+It transports blood and substances throughout the body.
+
+What is the heart?
+The heart pumps blood through the circulatory system.
+
+What are arteries?
+Arteries carry blood away from the heart.
+
+What are veins?
+Veins carry blood toward the heart.
+
+What are capillaries?
+Capillaries are tiny vessels where exchange occurs between blood and tissues.
+
+What are red blood cells?
+They transport oxygen using hemoglobin.
+
+What are white blood cells?
+They help defend the body against infection.
+
+What are platelets?
+Platelets help blood clot.
+
+What is the respiratory system?
+It exchanges oxygen and carbon dioxide.
+
+What are the lungs?
+The lungs are the main organs of gas exchange.
+
+What are alveoli?
+Alveoli are tiny air sacs where gas exchange occurs.
+
+What is the digestive system?
+It breaks down food and absorbs nutrients.
+
+What is the stomach?
+The stomach mixes food with digestive juices.
+
+What is the small intestine?
+It is the main site of nutrient absorption.
+
+What is the large intestine?
+It absorbs water and helps form feces.
+
+What is the liver?
+The liver performs many metabolic and digestive functions.
+
+What is the kidney?
+The kidney filters blood and produces urine.
+
+What is the urinary system?
+It removes wastes and regulates water balance.
+
+What is the immune system?
+It protects the body against harmful pathogens.
+
+What is a pathogen?
+A pathogen is an organism or agent that can cause disease.
+
+What is a vaccine?
+A vaccine trains the immune system to recognize a pathogen.
+
+What is an antibody?
+An antibody is a protein that specifically binds to an antigen.
+
+What is an antigen?
+An antigen is a substance recognized by the immune system.
+
+What is a hormone?
+A hormone is a chemical messenger.
+
+What is the endocrine system?
+It consists of glands that release hormones.
+
+What is insulin?
+Insulin is a hormone that helps regulate blood glucose.
+
+What is the skeletal system?
+It supports the body and protects internal organs.
+
+What is a joint?
+A joint is a place where bones meet.
+
+What is a muscle?
+A muscle is tissue that can contract to produce movement.
+
+What is reproduction?
+Reproduction is the process of producing offspring.
+
+What is asexual reproduction?
+It produces offspring from one parent without gamete fusion.
+
+What is sexual reproduction?
+It involves the fusion of reproductive cells.
+
+What is an amphibian?
+An amphibian is a vertebrate that typically has a life cycle involving water and land.
+
+What is a mammal?
+A mammal is a vertebrate with hair and mammary glands.
+
+What is a bird?
+A bird is a feathered vertebrate.
+
+What is a reptile?
+A reptile is a vertebrate with dry, scaly skin.
+
+What is a fish?
+A fish is an aquatic vertebrate that typically breathes using gills.
+
+What is a microorganism?
+A microorganism is an organism too small to be seen clearly without magnification.
+
+What is a bacterium?
+A bacterium is a single-celled prokaryotic organism.
+
+What is a virus?
+A virus is an infectious agent that reproduces inside host cells.
+
+What is a fungus?
+A fungus is an organism that absorbs nutrients from its environment.
+
+What is yeast?
+Yeast is a single-celled fungus.
+
+What is a protist?
+A protist is a diverse eukaryotic organism, often microscopic.
+
+What is microbiology?
+Microbiology is the study of microorganisms.
+
+What is immunology?
+Immunology is the study of the immune system.
+
+What is anatomy?
+Anatomy studies the structure of organisms.
+
+What is physiology?
+Physiology studies how organisms and their parts function.
+
+What is histology?
+Histology is the study of tissues.
+
+What is cytology?
+Cytology is the study of cells.
+
+What is embryology?
+Embryology studies the development of embryos.
+
+What is biotechnology?
+Biotechnology uses living systems to develop useful products.
+
+What is genetic engineering?
+Genetic engineering directly modifies an organism's genetic material.
+
+What is a stem cell?
+A stem cell can self-renew and develop into specialized cell types.
+
+What is tissue culture?
+Tissue culture grows cells or tissues under controlled conditions.
+
+What is a scientific hypothesis?
+A hypothesis is a testable proposed explanation.
+
+What is an experiment?
+An experiment tests a hypothesis under controlled conditions.
+
+What is a control group?
+A control group provides a comparison in an experiment.
+
+What is an independent variable?
+It is the variable deliberately changed in an experiment.
+
+What is a dependent variable?
+It is the variable measured in an experiment.
+
+What is a scientific theory?
+A scientific theory is a well-supported explanation of natural phenomena.
+
+What is a scientific observation?
+An observation is information gathered using senses or instruments.
+
+What is a microscope?
+A microscope magnifies small objects.
+
+What is magnification?
+Magnification is how many times larger an image appears.
+
+What is resolution?
+Resolution is the ability to distinguish two close points as separate.
+
+What is a light microscope?
+A light microscope uses visible light to form an image.
+
+What is an electron microscope?
+An electron microscope uses electrons to produce highly detailed images.
+
+What is a specimen?
+A specimen is a sample examined or studied.
+
+What is staining in microscopy?
+Staining adds contrast to make structures easier to see.
+
+What is a biological classification kingdom?
+A kingdom is a broad taxonomic rank below domain.
+
+What is the scientific name of an organism?
+It is its two-part genus and species name.
+
+What is binomial nomenclature?
+It is the system of naming species using genus and species.
+
+What is the difference between growth and development?
+Growth increases size; development involves changes in form and function.
+
+What is a life cycle?
+A life cycle is the sequence of stages in an organism's life.
+
+What is aging?
+Aging is the gradual change in an organism over time.
+
+What is conservation biology?
+It studies the protection of biodiversity and ecosystems.
+
+What is pollution?
+Pollution is the introduction of harmful substances or energy into the environment.
+
+What is climate change?
+Climate change is a long-term change in climate patterns.
+
+What is renewable energy?
+Renewable energy comes from sources that are naturally replenished.
+
+What is an endangered species?
+It is a species facing a high risk of extinction.
+
+What is extinction?
+Extinction occurs when a species has no living members.
+

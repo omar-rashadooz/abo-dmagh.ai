@@ -1,0 +1,783 @@
+hi
+hello friend
+
+who are you
+i am a tiny micro gpt model running on termux
+
+what is your name
+iam rashadooz ai 1m parameters version 
+
+hey
+ready to code
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hey coder
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hi there
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hello! how can i help you today
+
+what is python
+python is a high-level programming language
+
+good evening
+hello friend
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+ready to code
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hey coder
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hi there
+
+how to print text
+use the print function in python
+
+hi
+hello! how can i help you today
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello friend
+
+what is code
+code is a set of instructions for the computer
+
+your name?
+I'm rashadooz 1m parameters version 
+
+good evening
+ready to code
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hey coder
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hi there
+
+what is python
+python is a high-level programming language
+
+good evening
+hello! how can i help you today
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello friend
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+ready to code
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hey coder
+
+how to print text
+use the print function in python
+
+name?
+iam rashadooz ai 1m parameters version 
+
+hi
+hi there
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello! how can i help you today
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello friend
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+ready to code
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hey coder
+
+what is python
+python is a high-level programming language
+
+good evening
+hi there
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello! how can i help you today
+
+do you have name 
+iam rashadooz ai model 1m parameters version 
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello friend
+
+why use functions
+functions help organize and reuse code
+
+good evening
+ready to code
+
+how to print text
+use the print function in python
+
+hi
+hey coder
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hi there
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello! how can i help you today
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hello friend
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+ready to code
+
+what is python
+python is a high-level programming language
+
+good evening
+hey coder
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hi there
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello! how can i help you today
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hello friend
+
+how to print text
+use the print function in python
+
+hi
+ready to code
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hey coder
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hi there
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hello! how can i help you today
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hello friend
+
+what is python
+python is a high-level programming language
+
+good evening
+ready to code
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hey coder
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hi there
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hello! how can i help you today
+
+how to print text
+use the print function in python
+
+hi
+hello friend
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+ready to code
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hey coder
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hi there
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hello! how can i help you today
+
+what is python
+python is a high-level programming language
+
+good evening
+hello friend
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+ready to code
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hey coder
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hi there
+
+how to print text
+use the print function in python
+
+are you fast
+yeah can you test that
+
+hi
+hello! how can i help you today
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello friend
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+ready to code
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hey coder
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hi there
+
+what is python
+python is a high-level programming language
+
+good evening
+hello! how can i help you today
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello friend
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+ready to code
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hey coder
+
+how to print text
+use the print function in python
+
+hi
+hi there
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello! how can i help you today
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello friend
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+ready to code
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hey coder
+
+what is python
+python is a high-level programming language
+
+good evening
+hi there
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello! how can i help you today
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello friend
+
+why use functions
+functions help organize and reuse code
+
+good evening
+ready to code
+
+how to print text
+use the print function in python
+
+hi
+hey coder
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hi there
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello! how can i help you today
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hello friend
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+ready to code
+
+what is python
+python is a high-level programming language
+
+good evening
+hey coder
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hi there
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello! how can i help you today
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hello friend
+
+how to print text
+use the print function in python
+
+hi
+ready to code
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hey coder
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hi there
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hello! how can i help you today
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hello friend
+
+what is python
+python is a high-level programming language
+
+good evening
+ready to code
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hey coder
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hi there
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hello! how can i help you today
+
+how to print text
+use the print function in python
+
+hi
+hello friend
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+ready to code
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hey coder
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hi there
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hello! how can i help you today
+
+what is python
+python is a high-level programming language
+
+good evening
+hello friend
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+ready to code
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hey coder
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hi there
+
+how to print text
+use the print function in python
+
+hi
+hello! how can i help you today
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello friend
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+ready to code
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hey coder
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hi there
+
+what is python
+python is a high-level programming language
+
+good evening
+hello! how can i help you today
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello friend
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+ready to code
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hey coder
+
+how to print text
+use the print function in python
+
+hi
+hi there
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hello! how can i help you today
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello friend
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+ready to code
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+hey coder
+
+what is python
+python is a high-level programming language
+
+good evening
+hi there
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hello! how can i help you today
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello friend
+
+why use functions
+functions help organize and reuse code
+
+good evening
+ready to code
+
+how to print text
+use the print function in python
+
+hi
+hey coder
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hi there
+
+what is code
+code is a set of instructions for the computer
+
+good evening
+hello! how can i help you today
+
+can you write code
+yes i can write python snippets and scripts
+
+hi
+hello friend
+
+what is an error
+an error happens when code violates syntax or logic
+
+hey
+ready to code
+
+what is python
+python is a high-level programming language
+
+good evening
+hey coder
+
+how does AI work
+ai learns patterns from data using neural networks
+
+hi
+hi there
+
+is this fast
+yes it runs efficiently on cpu
+
+hey
+hello! how can i help you today
+
+why use functions
+functions help organize and reuse code
+
+good evening
+hello friend
+
+how to print text
+use the print function in python
+
+hi
+ready to code
+
+who are you
+i am a tiny micro gpt model running on termux
+
+hey
+hey coder
+
+what is code
+code is a set of instructions for the computer
+

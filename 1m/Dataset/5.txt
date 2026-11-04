@@ -1,0 +1,773 @@
+What is hardware?
+The physical parts of a computer.
+
+What is software?
+The programs that run on a computer.
+
+What is the CPU?
+The main brain of the computer.
+
+What does CPU stand for?
+Central Processing Unit.
+
+What is RAM?
+Temporary memory for active tasks.
+
+What does RAM stand for?
+Random Access Memory.
+
+Is RAM permanent?
+No, it loses data when turned off.
+
+What is ROM?
+Permanent memory for startup instructions.
+
+What does ROM stand for?
+Read-Only Memory.
+
+Is ROM permanent?
+Yes, it keeps data without power.
+
+What is a Motherboard?
+The main board that connects all computer parts.
+
+What is a GPU?
+A processor for graphics and video.
+
+What does GPU stand for?
+Graphics Processing Unit.
+
+What is an Operating System?
+Software that manages computer hardware and apps.
+
+Give an example of an Operating System.
+Windows.
+
+Give another example of an OS.
+macOS.
+
+What is a Linux OS?
+An open-source operating system.
+
+What is an HDD?
+A magnetic hard drive for saving files.
+
+What is an SSD?
+A fast flash drive for saving files.
+
+Which is faster, HDD or SSD?
+SSD.
+
+What is a PSU?
+The power supply unit for a computer.
+
+What is BIOS?
+Basic software that starts the computer.
+
+What is a Driver?
+Software that controls a hardware device.
+
+What is open-source software?
+Software with free and open code.
+
+What is closed-source software?
+Software with private, hidden code.
+
+What is Malware?
+Harmful computer software.
+
+What is a Virus?
+Malware that copies itself to infect computers.
+
+What is a Firewall?
+A security system that blocks bad network traffic.
+
+What is Cache?
+Very fast memory inside the CPU.
+
+What is an input device?
+A tool to put data into a computer.
+
+Give an example of an input device.
+A keyboard.
+
+Give another input device example.
+A mouse.
+
+What is an output device?
+A tool that shows data from a computer.
+
+Give an example of an output device.
+A monitor screen.
+
+Give another output device example.
+A printer.
+
+What is a NIC?
+A network card for connecting to the internet.
+
+What is an IP address?
+A unique number for a device on a network.
+
+What is a Bit?
+The smallest unit of data, 0 or 1.
+
+What is a Byte?
+A group of 8 bits.
+
+What is a Kilobyte?
+About 1000 bytes.
+
+What is a Megabyte?
+About 1000 kilobytes.
+
+What is a Gigabyte?
+About 1000 megabytes.
+
+What is a Terabyte?
+About 1000 gigabytes.
+
+What is Virtual Memory?
+Hard drive space used as extra RAM.
+
+What is Overclocking?
+Making hardware run faster than normal.
+
+What is Spyware?
+Software that secretly watches user activity.
+
+What is Ransomware?
+Malware that locks files until money is paid.
+
+What is a Compiler?
+Tool that turns code into machine language.
+
+What is Cloud Storage?
+Saving files online over the internet.
+
+What is an IDE?
+A program used for writing code.
+
+What is a Sound Card?
+Hardware that processes audio signals.
+
+What is a Heat Sink?
+A metal part that cools the CPU.
+
+What is Thermal Paste?
+Gel that helps transfer heat from CPU to cooler.
+
+What is a GUI?
+A visual computer screen with icons and buttons.
+
+What is a CLI?
+A text-based command screen.
+
+What is HTML?
+Language used to build web pages.
+
+What is Python?
+A simple programming language.
+
+What is USB?
+A standard cable connection for devices.
+
+What is a Peripheral?
+An external device connected to a computer.
+
+What is PCIe?
+A fast slot on the motherboard for cards.
+
+What is NVMe?
+A very fast SSD connection type.
+
+What is the Kernel?
+The core part of an Operating System.
+
+What is a Database?
+An organized collection of data.
+
+What is SQL?
+A language used to manage database data.
+
+What is a Router?
+A device that connects networks to the internet.
+
+What is a Switch?
+A device that connects computers in a local network.
+
+What is a Modem?
+A device connecting your home to the ISP.
+
+What is Bluetooth?
+Short-range wireless technology.
+
+What is Wi-Fi?
+Wireless local network technology.
+
+What is screen resolution?
+The number of pixels on a display screen.
+
+What is Refresh Rate?
+How fast a monitor updates its picture per second.
+
+What is 64-bit?
+A processor that handles 64 bits of data at once.
+
+What is a Trojan?
+Malware hidden inside a safe program.
+
+What is Phishing?
+Fake messages sent to steal passwords.
+
+What is TCP/IP?
+Rules for sending data across the internet.
+
+What is DNS?
+System that turns web names into IP numbers.
+
+What is DHCP?
+System that gives IP addresses automatically.
+
+What is SaaS?
+Software hosted online, like Google Docs.
+
+What is an API?
+Tool allowing two software apps to talk to each other.
+
+What is a Software Bug?
+An error in computer code.
+
+What is Debugging?
+Finding and fixing code errors.
+
+What is Git?
+A tool to track changes in software code.
+
+What is GitHub?
+An online site for hosting Git code.
+
+What is a Virtual Machine?
+A software computer running inside a real computer.
+
+What is Docker?
+Tool to run apps inside light containers.
+
+What is Mini-ITX?
+A small motherboard size.
+
+What is ATX?
+A standard size for computer motherboards.
+
+What is VRAM?
+Memory used only by the graphics card.
+
+What is a CMOS battery?
+A small battery powering BIOS clock settings.
+
+What is Multitasking?
+Running multiple apps at the same time.
+
+What is an Algorithm?
+A step-by-step rule for solving a problem.
+
+What is an Array?
+A list of items stored in code.
+
+What is OOP?
+Object-Oriented Programming style.
+
+What is a Software Framework?
+Pre-made code structure for building apps.
+
+What is a Software Library?
+A collection of pre-written reusable code.
+
+What is Refactoring?
+Cleaning up code without changing what it does.
+
+What is a Patch?
+An update to fix software bugs.
+
+What is Encryption?
+Scrambling data so only authorized users can read it.
+
+What is Decryption?
+Unscrambling encrypted data back to normal text.
+
+What is a VPN?
+A software service for secure private internet connection.
+
+What is RAID?
+Combining multiple drives for speed or safety.
+
+What is RAID 0?
+Splitting data for speed, with no backup.
+
+What is RAID 1?
+Mirroring data on two drives for safety.
+
+What is NAS?
+Network storage box for sharing files.
+
+What is Hot-Swapping?
+Replacing hardware while the computer is turned on.
+
+What is Ethernet?
+Wired internet cable connection.
+
+What is an RJ-45?
+The plug on the end of an Ethernet cable.
+
+What is a System Case?
+The box holding internal computer parts.
+
+What is Clock Speed?
+How fast a CPU processes instructions per second.
+
+What is a Dual-Core CPU?
+A CPU with two execution cores.
+
+What is a Quad-Core CPU?
+A CPU with four execution cores.
+
+What is an SoC?
+All computer parts combined on one chip.
+
+What is ARM?
+A low-power processor design used in phones.
+
+What is x86?
+A processor design used in PCs and laptops.
+
+What is Dual-Channel RAM?
+Using two memory sticks together for more speed.
+
+What is Liquid Cooling?
+Using water or fluid to cool a CPU.
+
+What is a BSOD?
+A blue error screen showing a Windows crash.
+
+What is Command Prompt?
+The basic command terminal in Windows.
+
+What is PowerShell?
+An advanced command tool in Windows.
+
+What is Linux Terminal?
+The command line screen in Linux systems.
+
+What is a File System?
+How an OS names and stores files on disk.
+
+What is NTFS?
+The main file system format for Windows.
+
+What is FAT32?
+An old drive format with a 4GB file limit.
+
+What is exFAT?
+A simple drive format working on Windows and Mac.
+
+What is APFS?
+The primary file system for modern Apple devices.
+
+What is Defragging?
+Organizing files on a mechanical HDD for speed.
+
+What is a Partition?
+A split section of a hard drive.
+
+What is a Bootloader?
+Program that loads the OS when turning on PC.
+
+What is Windows Registry?
+System database storing settings in Windows.
+
+What is Task Manager?
+Windows app showing running processes and CPU use.
+
+What is Safe Mode?
+Diagnostic startup mode using basic drivers.
+
+What is SSH?
+Tool for secure command access to remote PCs.
+
+What is FTP?
+Protocol for uploading and downloading files.
+
+What is a Proxy?
+An intermediate server hiding your web traffic.
+
+What is a Static IP?
+An IP address that never changes.
+
+What is a Dynamic IP?
+An IP address that changes automatically.
+
+What is IPv4?
+An older IP system using numbers like 192.168.1.1.
+
+What is IPv6?
+A newer IP system using long letters and numbers.
+
+What is a MAC Address?
+A hardware code hardcoded into a network chip.
+
+What is Ping?
+A command to test network connection response time.
+
+What is Bandwidth?
+The max data speed capacity of a network.
+
+What is Packet Loss?
+Data lost while traveling across a network.
+
+What is a Keylogger?
+Malware recording your typed keys to steal passwords.
+
+What is a DDoS attack?
+Overloading a website to crash it.
+
+What is 2FA?
+Using two steps to log into an account.
+
+What is a Password Manager?
+An app that stores your passwords safely.
+
+What is Data Backup?
+Making a copy of files to avoid data loss.
+
+What is a Full Backup?
+Copying all files completely.
+
+What is an Incremental Backup?
+Copying only new or changed files.
+
+What is High Availability?
+Systems designed to stay online without crashing.
+
+What is Load Balancing?
+Sharing traffic across multiple servers.
+
+What is a Microservice?
+Building software using small independent parts.
+
+What is Source Code?
+The human-written programming text.
+
+What is Machine Code?
+Binary code consisting of 1s and 0s for CPUs.
+
+What is Java?
+A popular programming language.
+
+What is JavaScript?
+A programming language for interactive web pages.
+
+What is JSON?
+A lightweight format for sending data text.
+
+What is XML?
+A text format used to store and transport data.
+
+What is a Dependency?
+An external code module required by an app.
+
+What is npm?
+A package manager tool for JavaScript.
+
+What is Unit Testing?
+Testing individual small pieces of code.
+
+What is DevOps?
+Combining software building and system operation.
+
+What is Agile?
+A fast, flexible software development process.
+
+What is Scrum?
+A practical way to run Agile team projects.
+
+What is Legacy Code?
+Old code still being used in production.
+
+What is a Firmware Update?
+Updating the low-level code inside hardware.
+
+What is a Supercomputer?
+An extremely fast computer for complex science.
+
+What is an Embedded System?
+A small computer built into an appliance.
+
+What is IoT?
+Smart internet-connected devices, like smart bulbs.
+
+What is Virtual Reality?
+3D computer-generated world worn on head displays.
+
+What is Augmented Reality?
+Digital objects shown over the real world screen.
+
+What is Quantum Computing?
+Computing using physics of qubits for super speed.
+
+What is Edge Computing?
+Processing data near the sensor instead of cloud.
+
+What is an NFC tag?
+A small chip read by tapping a phone near it.
+
+What is RFID?
+Radio tags used to track physical items.
+
+What is Haptic Feedback?
+Vibration effects felt from game controllers.
+
+What is Thermal Throttling?
+Hardware slowing down automatically to stay cool.
+
+What is Electrostatic Discharge?
+A sudden static spark that can ruin PC components.
+
+What is a Surge Protector?
+A power strip blocking dangerous electrical spikes.
+
+What is a UPS?
+A battery backup keeping PCs powered during outages.
+
+What is a PC Bus?
+A path for data travel between components inside PC.
+
+What is a Single-Board Computer?
+A whole computer on one tiny board like Raspberry Pi.
+
+What is Raspberry Pi?
+A tiny cheap single-board computer.
+
+What is Arduino?
+A small electronics board for DIY hardware projects.
+
+What is a Microcontroller?
+A tiny chip built to control one basic device task.
+
+What is a Transistor?
+A tiny electronic switch inside computer chips.
+
+What is Silicon?
+Material used to make computer chips.
+
+What is Moore's Law?
+Observation that chip power doubles every two years.
+
+What is a DIMM?
+A standard RAM stick for desktop computers.
+
+What is a SO-DIMM?
+A smaller RAM stick size used in laptops.
+
+What is SATA?
+A standard cable connection for hard drives.
+
+What is Failover?
+Automatically switching to backup hardware on crash.
+
+What is a Hardware Benchmark?
+A test score measuring hardware performance speed.
+
+What is a Bottleneck?
+When one slow PC component slows down the rest.
+
+What is End-of-Life software?
+Software no longer updated or supported by vendor.
+
+What is MFA?
+Multi-Factor Authentication for logging in securely.
+
+What is a Bitrate?
+The amount of data processed per second in video/audio.
+
+What is a Cold Boot?
+Starting a computer from a completely powered-off state.
+
+What is a Warm Boot?
+Restarting a computer without turning off main power.
+
+What is Swap Space?
+Drive space on Linux used as extra RAM memory.
+
+What is a Logic Gate?
+The basic circuit building block of digital chips.
+
+What is an AND gate?
+A gate outputting 1 only if all inputs are 1.
+
+What is an OR gate?
+A gate outputting 1 if any input is 1.
+
+What is a NOT gate?
+A gate that flips 1 to 0 or 0 to 1.
+
+What is Binary?
+A number system using only digits 0 and 1.
+
+What is Hexadecimal?
+A base-16 number system using 0-9 and A-F.
+
+What is ASCII?
+A code standard assigning numbers to text characters.
+
+What is Unicode?
+A standard text encoding support for all world languages.
+
+What is a Network Cable?
+Physical cable used to transfer network data.
+
+What is Wi-Fi 6?
+A modern fast generation of Wi-Fi technology.
+
+What is 5G?
+Fifth generation fast cellular network technology.
+
+What is a Latency lag?
+Time delay in network communication.
+
+What is Bandwidth limit?
+Maximum data transfer limit on an internet plan.
+
+What is Packet sniffing?
+Inspecting network traffic data packages.
+
+What is a Honeypot?
+A trap system used to attract and study hackers.
+
+What is Zero-Trust?
+A security rule that verifies every connection request.
+
+What is a Digital Signature?
+An encrypted proof verifying file authenticity.
+
+What is SSH Key?
+An encrypted access key alternative to passwords.
+
+What is a Hash Function?
+Math rule converting text into a fixed scrambled string.
+
+What is SHA-256?
+A popular secure cryptographic hashing formula.
+
+What is Cloud Backup?
+Automatically copying files to internet servers.
+
+What is Redundancy?
+Having extra backup hardware ready in case of failure.
+
+What is Server Racks?
+Metal frames holding enterprise server hardware.
+
+What is a Blade Server?
+A thin modular server card plugged into a rack.
+
+What is Data Center?
+A large building filled with server hardware.
+
+What is Bare Metal Server?
+A physical server dedicated to a single customer.
+
+What is a Sandbox?
+An isolated environment for testing untrusted software.
+
+What is a Compiler error?
+An error preventing code from compiling into an app.
+
+What is a Runtime error?
+An error happening while software is actively running.
+
+What is Null Pointer?
+A code error caused by accessing empty memory locations.
+
+What is Memory Leak?
+A software bug wasting RAM by failing to clear unused data.
+
+What is Stack Overflow?
+A crash caused by an app using too much stack memory.
+
+What is a Function?
+A block of reusable code that carries out a task.
+
+What is a Variable?
+A named box in code used to store data values.
+
+What is a Constant?
+A variable value in code that never changes.
+
+What is a String?
+A sequence of text characters in programming.
+
+What is an Integer?
+A whole number without decimals used in code.
+
+What is a Float?
+A number with decimal points in programming.
+
+What is a Boolean?
+A data type representing True or False.
+
+What is a Loop?
+Code that repeats until a condition is met.
+
+What is a For Loop?
+A loop repeating a fixed number of times.
+
+What is a While Loop?
+A loop repeating as long as a rule stays true.
+
+What is a Condition?
+An IF statement checking if something is true in code.
+
+What is GitHub Copilot?
+AI tool helping programmers write code faster.
+
+What is Prompt Engineering?
+Writing text instructions to guide AI model output.
+
+What is Machine Learning?
+Software learning patterns directly from data.
+
+What is Deep Learning?
+AI learning using multi-layered neural networks.
+
+What is an Artificial Neural Network?
+Software structure modeled after human brain neurons.
+
+What is Model Training?
+Teaching an AI model using large datasets.
+
+What is Model Inference?
+Using a trained AI model to generate answers.
+
+What is LLM?
+Large Language Model trained on text data.
+
+What is Parameters in AI?
+The internal weights learned by an AI model.
+
+What is Overfitting in AI?
+When an AI memorizes training data too closely.
+
+What is Underfitting in AI?
+When an AI fails to learn training data patterns well.
+
+What is Quantization?
+Compressing an AI model size for small devices.
+
+What is GPU VRAM memory?
+Video RAM used by GPUs to load AI models.
+
+What is Edge AI?
+Running AI models directly on local hardware devices.
+
+What is Chatbot?
+Software app simulating conversation with human users.
