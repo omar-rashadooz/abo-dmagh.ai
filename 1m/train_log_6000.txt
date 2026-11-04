@@ -1,0 +1,278 @@
+omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ source /mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/abodmagh/venv/bin/activate
+(venv) omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ python train.py
+[DATA] Train tokens: 276391
+[DATA] Val tokens: 30747
+[DATA] Vocabulary: 92
+[MODEL] Parameters: 1,000,404
+[MODEL] Device: cpu
+[RESUME] Loading: last.pt
+[RESUME] Step: 5000
+
+======================================
+ RASHADOOZ CHARACTER-LEVEL TRAINING
+======================================
+Start step: 5000
+Target steps: 7200
+Step 5010/7200 | Loss: 1.9872
+[SPEED] 1.37 steps/sec | Progress: 69.58% | ETA: 26.7 min
+Step 5020/7200 | Loss: 1.9798
+[SPEED] 1.40 steps/sec | Progress: 69.72% | ETA: 25.9 min
+Step 5030/7200 | Loss: 1.9828
+[SPEED] 1.41 steps/sec | Progress: 69.86% | ETA: 25.7 min
+Step 5040/7200 | Loss: 1.9741
+[SPEED] 1.42 steps/sec | Progress: 70.00% | ETA: 25.4 min
+Step 5050/7200 | Loss: 1.9383
+[SPEED] 1.42 steps/sec | Progress: 70.14% | ETA: 25.3 min
+Step 5060/7200 | Loss: 1.9797
+[SPEED] 1.42 steps/sec | Progress: 70.28% | ETA: 25.1 min
+Step 5070/7200 | Loss: 2.0165
+[SPEED] 1.42 steps/sec | Progress: 70.42% | ETA: 25.0 min
+Step 5080/7200 | Loss: 1.9929
+[SPEED] 1.42 steps/sec | Progress: 70.56% | ETA: 24.9 min
+Step 5090/7200 | Loss: 1.9926
+[SPEED] 1.42 steps/sec | Progress: 70.69% | ETA: 24.7 min
+Step 5100/7200 | Loss: 1.8938
+[SPEED] 1.41 steps/sec | Progress: 70.83% | ETA: 24.9 min
+[CHECKPOINT] Saved: last.pt | Step 5100
+Step 5110/7200 | Loss: 1.9598
+[SPEED] 1.39 steps/sec | Progress: 70.97% | ETA: 25.1 min
+Step 5120/7200 | Loss: 1.9644
+[SPEED] 1.37 steps/sec | Progress: 71.11% | ETA: 25.2 min
+Step 5130/7200 | Loss: 1.9092
+[SPEED] 1.36 steps/sec | Progress: 71.25% | ETA: 25.3 min
+Step 5140/7200 | Loss: 1.9447
+[SPEED] 1.36 steps/sec | Progress: 71.39% | ETA: 25.3 min
+Step 5150/7200 | Loss: 1.9617
+[SPEED] 1.35 steps/sec | Progress: 71.53% | ETA: 25.3 min
+Step 5160/7200 | Loss: 2.0018
+[SPEED] 1.34 steps/sec | Progress: 71.67% | ETA: 25.3 min
+Step 5170/7200 | Loss: 1.9776
+[SPEED] 1.34 steps/sec | Progress: 71.81% | ETA: 25.3 min
+Step 5180/7200 | Loss: 1.9972
+[SPEED] 1.33 steps/sec | Progress: 71.94% | ETA: 25.3 min
+Step 5190/7200 | Loss: 1.9381
+[SPEED] 1.33 steps/sec | Progress: 72.08% | ETA: 25.3 min
+
+Step 5200/7200 | Train: 1.8842 | Val: 1.8930
+[CHECKPOINT] Saved: best.pt | Step 5200
+Step 5200/7200 | Loss: 1.9490
+[SPEED] 1.23 steps/sec | Progress: 72.22% | ETA: 27.0 min
+[CHECKPOINT] Saved: last.pt | Step 5200
+Step 5210/7200 | Loss: 1.9423
+[SPEED] 1.23 steps/sec | Progress: 72.36% | ETA: 26.9 min
+Step 5220/7200 | Loss: 2.0304
+[SPEED] 1.24 steps/sec | Progress: 72.50% | ETA: 26.7 min
+Step 5230/7200 | Loss: 1.9805
+[SPEED] 1.24 steps/sec | Progress: 72.64% | ETA: 26.6 min
+Step 5240/7200 | Loss: 1.9199
+[SPEED] 1.24 steps/sec | Progress: 72.78% | ETA: 26.4 min
+Step 5250/7200 | Loss: 1.9525
+[SPEED] 1.24 steps/sec | Progress: 72.92% | ETA: 26.2 min
+Step 5260/7200 | Loss: 1.9238
+[SPEED] 1.24 steps/sec | Progress: 73.06% | ETA: 26.1 min
+Step 5270/7200 | Loss: 2.0432
+[SPEED] 1.24 steps/sec | Progress: 73.19% | ETA: 25.9 min
+Step 5280/7200 | Loss: 1.9347
+[SPEED] 1.24 steps/sec | Progress: 73.33% | ETA: 25.8 min
+Step 5290/7200 | Loss: 2.0295
+[SPEED] 1.24 steps/sec | Progress: 73.47% | ETA: 25.7 min
+Step 5300/7200 | Loss: 1.9589
+[SPEED] 1.24 steps/sec | Progress: 73.61% | ETA: 25.6 min
+[CHECKPOINT] Saved: last.pt | Step 5300
+Step 5310/7200 | Loss: 1.9127
+[SPEED] 1.24 steps/sec | Progress: 73.75% | ETA: 25.5 min
+Step 5320/7200 | Loss: 1.9432
+[SPEED] 1.24 steps/sec | Progress: 73.89% | ETA: 25.4 min
+Step 5330/7200 | Loss: 1.9091
+[SPEED] 1.24 steps/sec | Progress: 74.03% | ETA: 25.2 min
+Step 5340/7200 | Loss: 1.9429
+[SPEED] 1.24 steps/sec | Progress: 74.17% | ETA: 25.1 min
+Step 5350/7200 | Loss: 1.9467
+[SPEED] 1.24 steps/sec | Progress: 74.31% | ETA: 24.9 min
+Step 5360/7200 | Loss: 1.9551
+[SPEED] 1.24 steps/sec | Progress: 74.44% | ETA: 24.8 min
+Step 5370/7200 | Loss: 1.9819
+[SPEED] 1.24 steps/sec | Progress: 74.58% | ETA: 24.7 min
+Step 5380/7200 | Loss: 1.9889
+[SPEED] 1.24 steps/sec | Progress: 74.72% | ETA: 24.5 min
+Step 5390/7200 | Loss: 1.9606
+[SPEED] 1.24 steps/sec | Progress: 74.86% | ETA: 24.4 min
+
+Step 5400/7200 | Train: 1.8737 | Val: 1.8798
+[CHECKPOINT] Saved: best.pt | Step 5400
+Step 5400/7200 | Loss: 1.9559
+[SPEED] 1.20 steps/sec | Progress: 75.00% | ETA: 25.0 min
+[CHECKPOINT] Saved: last.pt | Step 5400
+Step 5410/7200 | Loss: 1.9643
+[SPEED] 1.20 steps/sec | Progress: 75.14% | ETA: 24.9 min
+Step 5420/7200 | Loss: 1.9490
+[SPEED] 1.20 steps/sec | Progress: 75.28% | ETA: 24.7 min
+Step 5430/7200 | Loss: 1.9253
+[SPEED] 1.20 steps/sec | Progress: 75.42% | ETA: 24.5 min
+Step 5440/7200 | Loss: 1.9467
+[SPEED] 1.20 steps/sec | Progress: 75.56% | ETA: 24.4 min
+Step 5450/7200 | Loss: 1.9580
+[SPEED] 1.21 steps/sec | Progress: 75.69% | ETA: 24.2 min
+Step 5460/7200 | Loss: 1.9617
+[SPEED] 1.20 steps/sec | Progress: 75.83% | ETA: 24.1 min
+^C
+[INTERRUPTED] Saving training state.
+[CHECKPOINT] Saved: last.pt | Step 5465
+[INFO] You can resume using: python train.py
+(venv) omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ python train.py
+[DATA] Train tokens: 276391
+[DATA] Val tokens: 30747
+[DATA] Vocabulary: 92
+[MODEL] Parameters: 1,000,404
+[MODEL] Device: cpu
+[RESUME] Loading: last.pt
+[RESUME] Step: 5465
+
+======================================
+ RASHADOOZ CHARACTER-LEVEL TRAINING
+======================================
+Start step: 5465
+Target steps: 6000
+Step 5470/6000 | Loss: 1.9464
+[SPEED] 1.30 steps/sec | Progress: 91.17% | ETA: 6.8 min
+Step 5480/6000 | Loss: 1.9602
+[SPEED] 1.31 steps/sec | Progress: 91.33% | ETA: 6.6 min
+Step 5490/6000 | Loss: 1.9845
+[SPEED] 1.31 steps/sec | Progress: 91.50% | ETA: 6.5 min
+Step 5500/6000 | Loss: 1.9515
+[SPEED] 1.31 steps/sec | Progress: 91.67% | ETA: 6.3 min
+[CHECKPOINT] Saved: last.pt | Step 5500
+Step 5510/6000 | Loss: 1.9675
+[SPEED] 1.30 steps/sec | Progress: 91.83% | ETA: 6.3 min
+Step 5520/6000 | Loss: 1.8916
+[SPEED] 1.30 steps/sec | Progress: 92.00% | ETA: 6.1 min
+Step 5530/6000 | Loss: 1.9943
+[SPEED] 1.30 steps/sec | Progress: 92.17% | ETA: 6.0 min
+Step 5540/6000 | Loss: 1.9403
+[SPEED] 1.30 steps/sec | Progress: 92.33% | ETA: 5.9 min
+Step 5550/6000 | Loss: 1.8961
+[SPEED] 1.30 steps/sec | Progress: 92.50% | ETA: 5.8 min
+Step 5560/6000 | Loss: 1.9585
+[SPEED] 1.30 steps/sec | Progress: 92.67% | ETA: 5.6 min
+Step 5570/6000 | Loss: 1.9067
+[SPEED] 1.30 steps/sec | Progress: 92.83% | ETA: 5.5 min
+Step 5580/6000 | Loss: 1.9495
+[SPEED] 1.30 steps/sec | Progress: 93.00% | ETA: 5.4 min
+Step 5590/6000 | Loss: 1.9136
+[SPEED] 1.31 steps/sec | Progress: 93.17% | ETA: 5.2 min
+
+Step 5600/6000 | Train: 1.8513 | Val: 1.8655
+[CHECKPOINT] Saved: best.pt | Step 5600
+Step 5600/6000 | Loss: 1.9858
+[SPEED] 1.19 steps/sec | Progress: 93.33% | ETA: 5.6 min
+[CHECKPOINT] Saved: last.pt | Step 5600
+Step 5610/6000 | Loss: 1.9484
+[SPEED] 1.19 steps/sec | Progress: 93.50% | ETA: 5.4 min
+Step 5620/6000 | Loss: 1.9374
+[SPEED] 1.20 steps/sec | Progress: 93.67% | ETA: 5.3 min
+Step 5630/6000 | Loss: 1.9304
+[SPEED] 1.20 steps/sec | Progress: 93.83% | ETA: 5.1 min
+Step 5640/6000 | Loss: 1.9415
+[SPEED] 1.21 steps/sec | Progress: 94.00% | ETA: 5.0 min
+Step 5650/6000 | Loss: 1.9019
+[SPEED] 1.22 steps/sec | Progress: 94.17% | ETA: 4.8 min
+Step 5660/6000 | Loss: 1.9047
+[SPEED] 1.22 steps/sec | Progress: 94.33% | ETA: 4.6 min
+Step 5670/6000 | Loss: 1.9416
+[SPEED] 1.22 steps/sec | Progress: 94.50% | ETA: 4.5 min
+Step 5680/6000 | Loss: 1.9134
+[SPEED] 1.21 steps/sec | Progress: 94.67% | ETA: 4.4 min
+Step 5690/6000 | Loss: 1.9352
+[SPEED] 1.20 steps/sec | Progress: 94.83% | ETA: 4.3 min
+Step 5700/6000 | Loss: 1.9725
+[SPEED] 1.19 steps/sec | Progress: 95.00% | ETA: 4.2 min
+[CHECKPOINT] Saved: last.pt | Step 5700
+Step 5710/6000 | Loss: 1.9313
+[SPEED] 1.18 steps/sec | Progress: 95.17% | ETA: 4.1 min
+Step 5720/6000 | Loss: 1.9372
+[SPEED] 1.18 steps/sec | Progress: 95.33% | ETA: 4.0 min
+Step 5730/6000 | Loss: 1.8990
+[SPEED] 1.17 steps/sec | Progress: 95.50% | ETA: 3.8 min
+Step 5740/6000 | Loss: 1.9048
+[SPEED] 1.16 steps/sec | Progress: 95.67% | ETA: 3.7 min
+Step 5750/6000 | Loss: 1.9395
+[SPEED] 1.16 steps/sec | Progress: 95.83% | ETA: 3.6 min
+Step 5760/6000 | Loss: 1.9237
+[SPEED] 1.15 steps/sec | Progress: 96.00% | ETA: 3.5 min
+Step 5770/6000 | Loss: 1.9352
+[SPEED] 1.15 steps/sec | Progress: 96.17% | ETA: 3.3 min
+Step 5780/6000 | Loss: 1.9735
+[SPEED] 1.14 steps/sec | Progress: 96.33% | ETA: 3.2 min
+Step 5790/6000 | Loss: 1.9276
+[SPEED] 1.14 steps/sec | Progress: 96.50% | ETA: 3.1 min
+
+Step 5800/6000 | Train: 1.8363 | Val: 1.8534
+[CHECKPOINT] Saved: best.pt | Step 5800
+Step 5800/6000 | Loss: 1.9318
+[SPEED] 1.09 steps/sec | Progress: 96.67% | ETA: 3.1 min
+[CHECKPOINT] Saved: last.pt | Step 5800
+Step 5810/6000 | Loss: 1.9177
+[SPEED] 1.09 steps/sec | Progress: 96.83% | ETA: 2.9 min
+Step 5820/6000 | Loss: 1.8662
+[SPEED] 1.08 steps/sec | Progress: 97.00% | ETA: 2.8 min
+Step 5830/6000 | Loss: 1.9287
+[SPEED] 1.08 steps/sec | Progress: 97.17% | ETA: 2.6 min
+Step 5840/6000 | Loss: 1.9175
+[SPEED] 1.08 steps/sec | Progress: 97.33% | ETA: 2.5 min
+Step 5850/6000 | Loss: 1.9010
+[SPEED] 1.08 steps/sec | Progress: 97.50% | ETA: 2.3 min
+Step 5860/6000 | Loss: 1.9500
+[SPEED] 1.08 steps/sec | Progress: 97.67% | ETA: 2.2 min
+Step 5870/6000 | Loss: 1.9118
+[SPEED] 1.08 steps/sec | Progress: 97.83% | ETA: 2.0 min
+Step 5880/6000 | Loss: 1.8740
+[SPEED] 1.08 steps/sec | Progress: 98.00% | ETA: 1.9 min
+Step 5890/6000 | Loss: 1.9420
+[SPEED] 1.07 steps/sec | Progress: 98.17% | ETA: 1.7 min
+Step 5900/6000 | Loss: 1.9142
+[SPEED] 1.07 steps/sec | Progress: 98.33% | ETA: 1.6 min
+[CHECKPOINT] Saved: last.pt | Step 5900
+Step 5910/6000 | Loss: 1.9497
+[SPEED] 1.07 steps/sec | Progress: 98.50% | ETA: 1.4 min
+Step 5920/6000 | Loss: 1.9704
+[SPEED] 1.07 steps/sec | Progress: 98.67% | ETA: 1.2 min
+Step 5930/6000 | Loss: 1.9699
+[SPEED] 1.07 steps/sec | Progress: 98.83% | ETA: 1.1 min
+Step 5940/6000 | Loss: 1.8928
+[SPEED] 1.07 steps/sec | Progress: 99.00% | ETA: 0.9 min
+Step 5950/6000 | Loss: 1.8944
+[SPEED] 1.06 steps/sec | Progress: 99.17% | ETA: 0.8 min
+Step 5960/6000 | Loss: 1.8863
+[SPEED] 1.06 steps/sec | Progress: 99.33% | ETA: 0.6 min
+Step 5970/6000 | Loss: 1.9464
+[SPEED] 1.06 steps/sec | Progress: 99.50% | ETA: 0.5 min
+Step 5980/6000 | Loss: 1.9398
+[SPEED] 1.06 steps/sec | Progress: 99.67% | ETA: 0.3 min
+Step 5990/6000 | Loss: 1.8777
+[SPEED] 1.06 steps/sec | Progress: 99.83% | ETA: 0.2 min
+
+Step 6000/6000 | Train: 1.8382 | Val: 1.8370
+[CHECKPOINT] Saved: best.pt | Step 6000
+Step 6000/6000 | Loss: 1.9290
+[SPEED] 1.03 steps/sec | Progress: 100.00% | ETA: 0.0 min
+[CHECKPOINT] Saved: last.pt | Step 6000
+
+======================================
+ FINAL EVALUATION
+======================================
+Train Loss: 1.8321
+Val Loss: 1.8373
+[CHECKPOINT] Saved: last.pt | Step 6000
+[CHECKPOINT] Saved: final.pt | Step 6000
+
+======================================
+       TRAINING COMPLETE
+======================================
+Current step: 6000
+Best validation loss: 1.8369826078414917
+Session steps: 535
+Session time: 8.85 minutes
+Checkpoint: /mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M/out_char/last.pt
+(venv) omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ 
+
+

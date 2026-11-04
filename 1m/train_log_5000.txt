@@ -1,0 +1,41 @@
+omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ source /mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/abodmagh/venv/bin/activate
+(venv) omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ python train.py
+[DATA] Train tokens: 276391
+[DATA] Val tokens: 30747
+[DATA] Vocabulary: 92
+[MODEL] Parameters: 1,000,404
+[MODEL] Device: cpu
+[RESUME] Loading: last.pt
+[RESUME] Step: 4999
+
+======================================
+ RASHADOOZ CHARACTER-LEVEL TRAINING
+======================================
+Start step: 4999
+Target steps: 5000
+
+Step 5000/5000 | Train: 1.9169 | Val: 1.9343
+Step 5000/5000 | Loss: 1.9001
+[SPEED] 0.16 steps/sec | Progress: 100.00% | ETA: 0.0 min
+[CHECKPOINT] Saved: last.pt | Step 5000
+
+======================================
+ FINAL EVALUATION
+======================================
+Train Loss: 1.9043
+Val Loss: 1.9097
+[CHECKPOINT] Saved: best.pt | Step 5000
+[CHECKPOINT] Saved: last.pt | Step 5000
+[CHECKPOINT] Saved: final.pt | Step 5000
+
+======================================
+       TRAINING COMPLETE
+======================================
+Current step: 5000
+Best validation loss: 1.9097201824188232
+Session steps: 1
+Session time: 0.21 minutes
+Checkpoint: /mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M/out_char/last.pt
+(venv) omar@U748:/mnt/a4b12a74-3ddd-417c-a4fa-00afcc8501a3/rashadooz_ai/1M$ 
+
+
